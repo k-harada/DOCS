@@ -1,0 +1,1208 @@
+Id,UserName,DisplayName,RegisterDate,PerformanceTier,Country,PerformanceName
+1,kaggleteam,Kaggle Team,3/24/2011,5,,5:Kaggleteam
+368,antgoldbloom,Anthony Goldbloom,1/20/2010,5,USA,5:Kaggleteam
+392,jmeynet,Julien Meynet,2/3/2010,3,Spain,3:Master
+421,dremovd,Dmitry Dryomov,2/28/2010,3,Russia,3:Master
+543,quansun,Quan Sun,4/19/2010,3,NZ,3:Master
+726,teamben,Ben,5/6/2010,3,Australia,3:Master
+808,alexxanderlarko,Alexander  Larko,5/14/2010,4,Russia,4:Grandmaster
+829,adamhusein,Adam,5/18/2010,3,United States,3:Master
+835,jzbontar,Jure Zbontar,5/19/2010,3,Slovenia,3:Master
+887,hugmee,Hug Mi,5/24/2010,3,Australia,3:Master
+926,dirknbr,Dirk Nachbar,5/26/2010,3,United Kingdom,3:Master
+993,benhamner,Ben Hamner,5/31/2010,5,United States,5:Kaggleteam
+1004,jasonkarpeles,Jason Karpeles,6/2/2010,3,United States,3:Master
+1300,brianelwell,Brian Elwell,6/15/2010,3,United States,3:Master
+1335,salimali,Sali Mali,6/22/2010,4,Australia,4:Grandmaster
+1356,compassucl,Lewis Griffin,6/23/2010,3,United Kingdom,3:Master
+1376,yuchuntang,Yuchun Tang,6/23/2010,3,United States,3:Master
+1455,mjahrer,Michael Jahrer,6/25/2010,4,Austria,4:Grandmaster
+1483,yassertabandeh,Yasser Tabandeh,6/27/2010,4,,4:Grandmaster
+1539,abifet,Albert,6/29/2010,3,New Zealand,3:Master
+1553,edramsden,Ed Ramsden,6/29/2010,3,United States,3:Master
+1602,chefele,Christopher Hefele,7/1/2010,4,United States,4:Grandmaster
+1744,chrisraimondi,Chris Raimondi,7/9/2010,3,United States,3:Master
+1902,solorzano,José H. Solórzano,7/21/2010,4,Ecuador,4:Grandmaster
+1927,bernhard1,BlackMagic,7/23/2010,3,New Zealand,3:Master
+1941,dvmodeler,David Vogel,7/26/2010,3,United States,3:Master
+1950,sskiing,Rowan,7/27/2010,5,Australia,5:Kaggleteam
+1955,glouppe,Gilles Louppe,7/27/2010,3,Switzerland,3:Master
+1996,mikhailz,Mikhail,8/1/2010,3,France,3:Master
+2036,konradb,Konrad Banachewicz,8/3/2010,3,Netherlands,3:Master
+2081,outis1,Yannis Sismanis,8/4/2010,3,United States,3:Master
+2100,leebaker,Lee Baker,8/4/2010,3,United States,3:Master
+2140,dslate,David J. Slate,8/5/2010,4,United States,4:Grandmaster
+2145,diogoff,Diogo,8/5/2010,3,Portugal,3:Master
+2194,uriblass,Uri Blass,8/5/2010,3,Israel,3:Master
+2233,pwfrey42,Peter W Frey,8/7/2010,3,United States,3:Master
+2242,domcastro,Bluefool,8/8/2010,4,United Kingdom,4:Grandmaster
+2403,chrisbrew,joshnk,8/19/2010,3,USA,3:Master
+2412,neocortex,Charlie Tang,8/19/2010,4,Canada,4:Grandmaster
+2505,jeffmoser,Jeff Moser,8/21/2010,5,US,5:Kaggleteam
+2591,dejavu,Cole Harris,8/25/2010,3,United States,3:Master
+2641,johndun,John Dunavent,8/27/2010,3,United States,3:Master
+2687,jmalicki,jmalicki,8/30/2010,3,United States,3:Master
+2702,alecstephenson,Alec Stephenson,9/1/2010,3,Australia,3:Master
+2768,rwieczor,RobertW,9/6/2010,3,Poland,3:Master
+2809,onemillionmonkeys,Eric Jackson,9/9/2010,3,United States,3:Master
+2820,alegro,alegro,9/11/2010,3,Ukraine,3:Master
+2827,mpionnier,Marcin Pionnier,9/12/2010,3,Poland,3:Master
+2840,imaxus,Maxim,9/13/2010,3,Russian Federation,3:Master
+3021,pprett,Peter Prettenhofer,9/22/2010,3,Austria,3:Master
+3050,martinreichert,Martin Reichert,9/23/2010,3,Germany,3:Master
+3090,dyakonov,Alexander D'yakonov,9/28/2010,4,Russian Federation,4:Grandmaster
+3218,cugliari,Jairo,10/9/2010,3,France,3:Master
+3230,naokazumizuta,Naokazu Mizuta,10/10/2010,4,Japan,4:Grandmaster
+3232,cdubois,Chris,10/10/2010,3,United States,3:Master
+3256,jhoward,Jeremy Howard,10/13/2010,4,United States,4:Grandmaster
+3258,wcukierski,William Cukierski,10/13/2010,5,United States,5:Kaggleteam
+3324,nickmirsky,Nick Mirsky,10/19/2010,3,United States,3:Master
+3346,ejlok1,Eu Jin Lok,10/21/2010,4,AU,4:Grandmaster
+3375,timsalimans,Tim Salimans,10/25/2010,4,Netherlands,4:Grandmaster
+3527,quyntk,Kim Quy,11/9/2010,3,Vietnam,3:Master
+3592,byang1,B Yang,11/12/2010,4,Canada,4:Grandmaster
+3626,alekseynp,Aleksey Nozdryn-Plotnicki,11/14/2010,3,Canada,3:Master
+3876,edunov,Sergey,11/24/2010,4,United States,4:Grandmaster
+3944,jacocronje,Jaco Cronje,11/24/2010,3,South Africa,3:Master
+3961,liuftvafas,Liuftvafas,11/24/2010,3,,3:Master
+4327,truyen,Truyen Tran,12/2/2010,3,Australia,3:Master
+4398,ccccat,Sergey Yurgenson,12/2/2010,4,United States,4:Grandmaster
+4534,ghalib,ghalib,12/3/2010,3,United States,3:Master
+4558,jwkvam,Jacques Kvam,12/4/2010,3,United States,3:Master
+4569,minghen,masaki,12/4/2010,3,Taiwan,3:Master
+4667,yanirseroussi,Yanir Seroussi,12/7/2010,3,Australia,3:Master
+4924,jasonnoriega,Jason Noriega,12/18/2010,3,United States,3:Master
+4960,srgodbole,Shashi Godbole,12/20/2010,3,India,3:Master
+5018,jpetterson,James Petterson,12/23/2010,3,Australia,3:Master
+5048,viveksha,Vivek Sharma,12/25/2010,4,India,4:Grandmaster
+5251,ahassaine,Ali Hassaïne,1/8/2011,3,Algeria,3:Master
+5309,abhishek,Abhishek,1/12/2011,4,Norway,4:Grandmaster
+5345,kkevin,kevin,1/16/2011,3,United States,3:Master
+5426,optimism,SK,1/20/2011,3,United States,3:Master
+5462,iamivo,ivo,1/21/2011,3,Hungary,3:Master
+5560,tloinuy,Tony Liu,1/25/2011,3,United States,3:Master
+5635,mmucha,Marcin Mucha,1/27/2011,3,Poland,3:Master
+5642,blindape,José A. Guerrero,1/27/2011,4,Spain,4:Grandmaster
+5940,cjturner,Charlie Turner,2/7/2011,3,United States,3:Master
+5978,scottdobson,Scott Dobson,2/8/2011,3,United States,3:Master
+6133,chiahua,Chia-Hua,2/10/2011,3,,3:Master
+6388,confirm,Kohei,2/16/2011,4,JP,4:Grandmaster
+6516,gtakacs,Gábor Takács,2/20/2011,3,Hungary,3:Master
+6528,balazsgodeny,Balazs Godeny,2/21/2011,3,Hungary,3:Master
+6603,tks0123456789,tks,2/26/2011,3,Japan,3:Master
+6639,wmestrom,Willem Mestrom,2/28/2011,3,Netherlands,3:Master
+6669,andrewnewell,Andrew Newell,3/1/2011,3,United Kingdom,3:Master
+6673,bwieliczko,Blazej Wieliczko,3/1/2011,3,United Kingdom,3:Master
+6696,zachmayer,Zach,3/2/2011,4,US,4:Grandmaster
+6717,briancheung,Brian Cheung,3/4/2011,3,United States,3:Master
+6732,bcragin,Bruce Cragin,3/4/2011,3,United States,3:Master
+6759,sveitser,Mathis Antony,3/7/2011,3,Hong Kong,3:Master
+6808,matthewroos,Matthew Roos,3/9/2011,3,United States,3:Master
+7052,jasontigg,Jason Tigg,3/18/2011,4,United Kingdom,4:Grandmaster
+7055,toulouse,Toulouse,3/18/2011,3,France,3:Master
+7070,gkoundry,Glen,3/18/2011,4,United States,4:Grandmaster
+7117,shenss,Stefan Henß,3/20/2011,4,Germany,4:Grandmaster
+7238,quadpartisan,Haru,3/25/2011,3,,3:Master
+7527,luv2av8,Luv2av8,3/31/2011,3,United States,3:Master
+7657,nschneider,"Neil Schneider, FSA",4/4/2011,4,United States,4:Grandmaster
+7711,mpekalski,Marcin Pękalski,4/4/2011,3,Sweden,3:Master
+7756,owenzhang1,Owen,4/4/2011,4,United States,4:Grandmaster
+7779,echidna0,Echidna,4/4/2011,3,,3:Master
+7837,anlthms,Anil Thomas,4/4/2011,4,United States,4:Grandmaster
+7894,jordanmeyer,Jordan Meyer,4/4/2011,3,United States,3:Master
+7947,nmkridler,Nick Kridler,4/5/2011,3,USA,3:Master
+8267,dellzhang,Dell Zhang,4/5/2011,3,United Kingdom,3:Master
+8376,mattvonrohr,Matt,4/5/2011,3,Switzerland,3:Master
+8533,jontix,jontix,4/5/2011,4,United Kingdom,4:Grandmaster
+8574,glazed,glazed,4/5/2011,3,,3:Master
+8668,alfnie,Alfonso Nieto-Castanon,4/5/2011,4,Spain,4:Grandmaster
+8862,sirguessalot,Momchil Georgiev,4/6/2011,4,United States,4:Grandmaster
+9028,dansbecker,DanB,4/6/2011,5,United States,5:Kaggleteam
+9338,jblondin,James Blondin,4/9/2011,3,,3:Master
+9350,jjjjjj,JJJ,4/9/2011,3,United States,3:Master
+9441,jeremyachin,Jeremy Achin,4/10/2011,3,United States,3:Master
+9675,stefanstefanov,Stefan Stefanov,4/13/2011,3,Bulgaria,3:Master
+9766,breakfastpirate,BreakfastPirate,4/14/2011,4,United States,4:Grandmaster
+9827,transplanted,transplanted_tree,4/16/2011,3,,3:Master
+9844,xuwr9844,xuwr,4/16/2011,3,,3:Master
+9974,gertjac,Gert,4/19/2011,4,The Netherlands,4:Grandmaster
+10051,nizhibitsky,Evgeny Nizhibitsky,4/20/2011,3,RU,3:Master
+10171,dynamic24,dynamic24,4/23/2011,4,United States,4:Grandmaster
+10215,eventhorizon0,event_horizon,4/25/2011,3,,3:Master
+10694,biasvariance,Shea Parkes,5/7/2011,3,United States,3:Master
+10748,martinoleary,Martin O'Leary,5/9/2011,3,United Kingdom,3:Master
+10849,aaronvandenoord,Aaron van den Oord,5/12/2011,3,,3:Master
+10932,ampires,AMPires,5/15/2011,3,Portugal,3:Master
+11460,tsundokum,Marat,5/23/2011,3,Russian Federation,3:Master
+11621,gaddawin,gaddawin,5/25/2011,3,Russian Federation,3:Master
+11652,nesterov,mephistopheies,5/26/2011,3,Russian Federation,3:Master
+11752,alsafr,alsafr,5/29/2011,3,,3:Master
+11842,joseleiva,Jose M.,6/1/2011,3,Spain,3:Master
+12260,herrahuu,Herra Huu,6/16/2011,4,Finland,4:Grandmaster
+12361,lukasz8000,Lukasz 8000,6/22/2011,3,Poland,3:Master
+12386,jfister,Justin Fister,6/23/2011,3,,3:Master
+12458,bihotzaldi,zeon,6/28/2011,3,Spain,3:Master
+12584,woshialex,woshialex,6/30/2011,4,United States,4:Grandmaster
+12824,maternaj,maternaj,7/7/2011,3,Czech Republic,3:Master
+12843,khanenko,rokh,7/7/2011,3,Ukraine,3:Master
+13209,anaconda,Anaconda,7/13/2011,3,US,3:Master
+13260,lamthuy,lamthuy,7/14/2011,3,Netherlands,3:Master
+13518,erdman,Travis Erdman,7/21/2011,3,United States,3:Master
+13522,jxiesd,John,7/21/2011,3,United States,3:Master
+13523,mullerx,xamul,7/21/2011,3,,3:Master
+13720,tritonsd,Triton-SD,7/28/2011,3,,3:Master
+13755,riivo1,Riivo Kikas,7/29/2011,3,Estonia,3:Master
+13839,madhavkumar2005,Gauss,8/1/2011,3,USA,3:Master
+13893,mlearn,mlearn,8/1/2011,3,UK,3:Master
+14212,lily14212,lily,8/7/2011,3,,3:Master
+14756,nigelcarpenter,Chippy,8/17/2011,3,United Kingdom,3:Master
+14788,d3potf,D3PO,8/18/2011,3,Australia,3:Master
+15920,chaseos,Chase,8/31/2011,3,United States,3:Master
+16010,agdavis,agdavis,9/2/2011,3,,3:Master
+16082,morandi,Andrey Ostapets,9/4/2011,3,Germany,3:Master
+16094,ducktile,DuckTile,9/5/2011,3,USSR ,3:Master
+16152,shirobert,Lei Shi,9/7/2011,3,United States,3:Master
+16192,tomdegodoy,Tom de Godoy,9/8/2011,3,United States,3:Master
+16260,codeexpress,codeexpress,9/10/2011,3,,3:Master
+16360,mattwescott,Matt Wescott,9/14/2011,3,,3:Master
+16398,simongabor,Gábor S,9/15/2011,3,,3:Master
+17379,xavierconort,Xavier Conort,9/23/2011,4,Singapore,4:Grandmaster
+17387,ildefons,Ildefons Magrans,9/23/2011,3,Japan,3:Master
+18020,typedef,typedef,10/4/2011,3,,3:Master
+18102,gaborfodor,beluga,10/5/2011,4,Hungary,4:Grandmaster
+18271,mechatroner,mechatroner,10/8/2011,3,Russia,3:Master
+18396,willieliao,Willie Liao,10/10/2011,3,United States,3:Master
+18463,mathurinache,Mathurin Aché,10/11/2011,3,France,3:Master
+18785,newtohere,onthehilluu,10/17/2011,3,United States,3:Master
+19099,alexryzhkov,Alexander Ryzhkov,10/22/2011,3,Russia,3:Master
+19298,lucamassaron,Luca Massaron,10/26/2011,3,IT,3:Master
+19387,chetanra,Chetan Ramaiah,10/27/2011,3,,3:Master
+19390,lopuhin,Konstantin Lopuhin,10/27/2011,3,,3:Master
+19423,mateja,Baptiste Pigaux,10/28/2011,3,France,3:Master
+19518,vikpar,Vik Paruchuri,10/31/2011,3,United States,3:Master
+19557,liangsun,Liang Sun,10/31/2011,3,United States,3:Master
+19583,chausler,chausler,11/1/2011,3,Australia,3:Master
+19605,jeongyoonlee,Jeong-Yoon Lee,11/1/2011,3,United States,3:Master
+19619,anamnesis,anamnesis,11/2/2011,3,,3:Master
+19756,enki19756,Enki,11/3/2011,3,,3:Master
+20234,timveitch,Tim Veitch,11/4/2011,3,Australia,3:Master
+21831,thalro,thomas rost,11/8/2011,3,Germany,3:Master
+22185,richardepstein,quadcore/Richard Epstein,11/9/2011,3,,3:Master
+22853,lejlot,Wojciech Czarnecki,11/11/2011,3,United Kingdom,3:Master
+23071,guoming,guoming,11/13/2011,3,,3:Master
+23352,baba23352,baba,11/15/2011,3,,3:Master
+23607,razgon,razgon,11/17/2011,3,Hungary,3:Master
+23631,usamec,Vlado Boza,11/17/2011,3,Slovak Republic,3:Master
+23759,luistp001,Luis Tandalla,11/18/2011,3,United States,3:Master
+23831,rkirana,kr,11/18/2011,4,,4:Grandmaster
+24119,yetiman,YetiMan,11/21/2011,3,United States,3:Master
+24266,leustagos,Leustagos,11/22/2011,4,Brazil,4:Grandmaster
+24694,dmaust,David Maust,11/28/2011,3,United States,3:Master
+25112,steffenrendle,Steffen Rendle,11/30/2011,3,USA,3:Master
+25508,pankajmishra0,Pankaj Mishra,12/2/2011,3,United States,3:Master
+25648,weilinear,LI Wei,12/4/2011,3,Switzerland,3:Master
+25954,blackswift,yz,12/6/2011,3,,3:Master
+26008,luckyguy,Hillview,12/6/2011,3,United States,3:Master
+26767,mtb26767,__mtb__,12/13/2011,3,United States,3:Master
+26782,paweljankiewicz,Paweł Jankiewicz,12/13/2011,4,Polska,4:Grandmaster
+26968,adrianoazevedofilho,Adriano Azevedo-Filho,12/14/2011,3,Brazil,3:Master
+27242,johncandido,Giovanni,12/16/2011,3,United States,3:Master
+27805,nedelko,Victor,12/24/2011,4,Russia,4:Grandmaster
+27833,elliotdawson,Elliot Dawson,12/25/2011,3,Australia,3:Master
+27953,deassis,deassis,12/27/2011,3,Brazil,3:Master
+28038,zygmunt,Foxtrot,12/28/2011,3,Poland,3:Master
+28261,sitmocom,Sitmo,1/1/2012,3,The Netherlands,3:Master
+28330,lijiefei,Jiefei Li,1/2/2012,3,China,3:Master
+28963,datacanary,DataCanary,1/9/2012,5,Australia,5:Kaggleteam
+28994,alexscheelmeyer,syntax,1/9/2012,3,,3:Master
+29202,caoren786,Xing Hua,1/10/2012,3,United States,3:Master
+29289,weiwunyc,Wei Wu,1/11/2012,3,United States,3:Master
+29346,efimov,Dmitry Efimov,1/12/2012,4,USA,4:Grandmaster
+29379,yarreg,Akulov Yaroslav,1/12/2012,3,Russian Federation,3:Master
+29522,harriken,Jose Berengueres,1/14/2012,3,United Arab Emirates,3:Master
+29756,qwang88,Qingchen,1/17/2012,4,NL,4:Grandmaster
+29839,killianoconnor,Killian O'Connor,1/18/2012,3,United States,3:Master
+30140,benoitplante,Benoit Plante,1/22/2012,3,Canada,3:Master
+30481,roulinir,r0u1i,1/27/2012,3,Israel,3:Master
+30618,ctsats,desertnaut,1/30/2012,3,Greece,3:Master
+30864,waynezhang,Wayne Zhang,2/3/2012,4,,4:Grandmaster
+30930,sajidzaidi,Sajid Zaidi,2/4/2012,3,United States,3:Master
+30931,pollux,Pollux,2/4/2012,3,,3:Master
+30967,danielkorzekwa,Daniel Korzekwa,2/4/2012,3,,3:Master
+31119,dhammack,dhammack,2/7/2012,3,,3:Master
+31532,hochthom,Fluxus,2/11/2012,3,Austria,3:Master
+32300,tqchen,Tianqi Chen,2/22/2012,3,,3:Master
+32352,ronaldosen,Ronaldosen,2/22/2012,3,China,3:Master
+32397,cxz2004,a9108,2/23/2012,3,China,3:Master
+32411,zhaogang,George Zhao,2/23/2012,3,,3:Master
+33240,ryankiros,Ryan Kiros,2/29/2012,3,Canada,3:Master
+33300,waltchan,Walt Chan,2/29/2012,3,,3:Master
+33467,dmytrolystopad,Dmytro Lystopad,3/1/2012,3,Ukraine,3:Master
+33495,leepei,leepei,3/1/2012,3,,3:Master
+33499,ytag33499,y_tag,3/1/2012,3,Japan,3:Master
+33543,xingzhao,xing zhao,3/1/2012,4,United States,4:Grandmaster
+33545,mingot,Josep Marc Mingot,3/1/2012,3,USA,3:Master
+33580,phoneix,phoneix,3/2/2012,3,,3:Master
+33582,plus133582,plus,3/2/2012,3,,3:Master
+33583,ddoo33583,ddoo,3/2/2012,3,,3:Master
+33595,markliu,Xudong Liu,3/2/2012,3,,3:Master
+33620,zhanpengfang,FAndy,3/2/2012,4,China,4:Grandmaster
+33629,gengoat,Gengoat,3/2/2012,3,,3:Master
+33644,cashfeg,hoxosh,3/2/2012,3,Japan,3:Master
+33650,fancyspeed,Winterfell,3/2/2012,3,CN,3:Master
+33714,kingsfield,Kingsfield,3/2/2012,3,China,3:Master
+33874,keiku322,Keiku,3/3/2012,3,Japan,3:Master
+33968,applerman,FattyBetty,3/4/2012,3,,3:Master
+34298,gerold,Gerold Scheunemann,3/6/2012,3,,3:Master
+34304,medial,Medrr,3/6/2012,4,Israel,4:Grandmaster
+34756,zhangyuc,Yuchen Zhang,3/9/2012,3,United States,3:Master
+35069,takiba,iwiwi,3/12/2012,3,JP,3:Master
+35326,luciferase,Alex Jacobs,3/14/2012,3,ZA,3:Master
+35505,dorong,Doron,3/16/2012,3,,3:Master
+35595,aparaskev,Thanasis Paraskevas,3/16/2012,3,Greece,3:Master
+35609,gmobaz,gmobaz,3/17/2012,3,Mexico,3:Master
+35717,xiaocongliang,Xiaocong Liang,3/18/2012,3,,3:Master
+35780,topchylo,Olexandr Topchylo,3/18/2012,4,Ukraine,4:Grandmaster
+35844,china1000,Walking Flower,3/19/2012,3,,3:Master
+35991,raducu,Radu,3/20/2012,3,,3:Master
+35993,aolariu,Andrei Olariu,3/20/2012,3,Romania,3:Master
+36054,ramarlina,Mendrika Ramarlina,3/20/2012,3,Madagascar,3:Master
+36141,hallayang,Halla Yang,3/21/2012,4,United States,4:Grandmaster
+36266,antonbogatyy,anton.bogatyy,3/22/2012,3,GB,3:Master
+36583,alapin,sashulya,3/25/2012,3,United States,3:Master
+36878,infty36878,infty,3/27/2012,3,United States,3:Master
+36885,randommodeler,random modeler,3/27/2012,3,,3:Master
+37447,ludieli,LudieLi,3/31/2012,3,China,3:Master
+37594,wendykan,Wendy Kan,4/1/2012,5,United States,5:Kaggleteam
+37655,marbur,MaBu,4/2/2012,3,Slovenia,3:Master
+37687,willkurt,willkurt,4/2/2012,3,United States,3:Master
+37958,andrewchou,andrew,4/4/2012,3,,3:Master
+38046,evag38046,EvaG,4/5/2012,3,,3:Master
+38106,rongkaixia,Rongkai Xia,4/6/2012,3,China,3:Master
+38113,juliandewit,Julian de Wit,4/6/2012,4,Netherlands,4:Grandmaster
+38703,mitrofan,Mitrofan,4/11/2012,3,,3:Master
+38890,hilbertspace1,hilbert-space,4/12/2012,3,,3:Master
+40090,bibimounemohamed,Bibimoune,4/18/2012,3,France,3:Master
+40236,luz1988,blackjack,4/19/2012,3,Hong Kong,3:Master
+40312,winsty,Winsty,4/20/2012,3,,3:Master
+40407,bradybenware,Brady Benware,4/21/2012,3,United States,3:Master
+40555,sebastienconort,Sebastien Conort,4/22/2012,3,France,3:Master
+40954,chrisslz,chrisslz,4/25/2012,3,Germany,3:Master
+41096,tudinhnguyen,tund,4/27/2012,3,Australia,3:Master
+41181,sedielem,sedielem,4/27/2012,3,United Kingdom,3:Master
+41275,songgc,Guocong Song,4/27/2012,4,United States,4:Grandmaster
+41474,redjava,redjava,4/28/2012,3,,3:Master
+41692,workingknowledge,WorkingKnowledge,4/30/2012,3,USA,3:Master
+41766,yuenking,yuenking,5/1/2012,3,Germany,3:Master
+41863,gm1248,GM,5/2/2012,3,,3:Master
+41959,thakurrajanand,DataGeek,5/3/2012,3,India,3:Master
+42188,joseffeigl,Josef Feigl,5/5/2012,4,Germany,4:Grandmaster
+42422,littleding,LittleDing,5/8/2012,3,China,3:Master
+42470,totoro1,totoro,5/8/2012,3,Singapore,3:Master
+42815,vdaniloff,vdaniloff,5/12/2012,3,Russian Federation,3:Master
+42831,squirrel0,squirrel,5/12/2012,3,,3:Master
+42832,weberwu,KW Wu,5/12/2012,3,,3:Master
+42941,adrianhaldenby,ahaldenby,5/14/2012,3,Canada,3:Master
+43165,yingweixin,Yingwei Xin,5/16/2012,3,,3:Master
+43581,binghsu,Bing Xu,5/21/2012,4,Canada,4:Grandmaster
+43611,wistonego,wistone,5/21/2012,3,,3:Master
+43621,liderchang,Li-Der,5/21/2012,3,United States,3:Master
+43867,andreastoescher,AndreasToescher,5/24/2012,3,Austria,3:Master
+43882,hypertext,hypertext,5/24/2012,3,,3:Master
+43883,msla43883,msla,5/24/2012,3,,3:Master
+43884,flash3,FLash,5/24/2012,3,,3:Master
+43886,negocylg,negocylg,5/24/2012,3,,3:Master
+43889,abc1233,abc123,5/24/2012,3,,3:Master
+43890,inthebamboo,InTheBamboo,5/24/2012,3,,3:Master
+43895,noidea,noidea,5/24/2012,3,,3:Master
+43896,bigold,BigOld,5/24/2012,3,,3:Master
+43905,totu43905,totu,5/24/2012,3,,3:Master
+43911,smile1,smile,5/24/2012,3,,3:Master
+43918,awdqse,awdqse,5/25/2012,3,,3:Master
+43926,hangzhang0,Hang Zhang,5/25/2012,3,United States,3:Master
+43943,fluttershy0,Fluttershy,5/25/2012,3,,3:Master
+43966,raindog,raindog,5/25/2012,3,,3:Master
+43978,rvcl43978,rvcl,5/25/2012,3,,3:Master
+44278,bnnkong2099,bnnkong2099,5/30/2012,3,,3:Master
+44318,gerasimenko,Michael Gerasimenko,5/30/2012,3,Russian Federation,3:Master
+44511,senwu44511,Sen Wu,6/1/2012,3,,3:Master
+44623,pyduan,Paul Duan,6/3/2012,3,USA,3:Master
+44777,mahehu,Heikki Huttunen,6/5/2012,3,Finland,3:Master
+45651,tuzzeg,tuzzeg,6/7/2012,3,United States,3:Master
+45866,georgeciobanu,George Ciobanu,6/9/2012,3,Romania,3:Master
+45883,miguel2,Miguel,6/9/2012,3,Spain,3:Master
+45978,cbourguignat,Christophe Bourguignat,6/10/2012,3,France,3:Master
+46150,lenguyenthedat,lenguyenthedat,6/11/2012,3,Singapore,3:Master
+46205,emiliogortizg,Emilio G. Ortiz-García,6/11/2012,3,Spain,3:Master
+46383,lmg46383,LMG,6/12/2012,3,Spain,3:Master
+46459,dxyz46459,dxyz,6/12/2012,3,,3:Master
+46666,dimaquick,Afanasjev Dmitry,6/14/2012,3,Switzerland,3:Master
+46826,luscus,luscus,6/15/2012,3,USA,3:Master
+46907,jasiekl,Janek,6/16/2012,3,Poland,3:Master
+46992,vojtekb,vojtekb,6/17/2012,3,Netherlands,3:Master
+47092,milakov,Maxim Milakov,6/18/2012,4,Russia,4:Grandmaster
+47226,anttip,anttip,6/19/2012,3,New Zealand,3:Master
+47555,nitaidean,Nitai Dean,6/20/2012,3,United States,3:Master
+47730,cartersibley,Carter Sibley,6/21/2012,3,United States,3:Master
+48048,robertod,Roberto,6/25/2012,4,Spain,4:Grandmaster
+48112,dougkoch,Doug Koch,6/26/2012,3,United States,3:Master
+48145,jchoquehuancaz,JJ-ATRG,6/26/2012,3,Spain,3:Master
+48625,mlandry,mlandry,7/1/2012,3,United States,3:Master
+48985,auroraxie,AuroraXie,7/4/2012,3,United States,3:Master
+49015,mvolkovs,Maks Volkovs,7/4/2012,3,Canada,3:Master
+49061,arjoly,Arnaud Joly,7/5/2012,3,,3:Master
+50689,damianmingle,Damian Mingle,7/20/2012,3,United States,3:Master
+51116,takagiwa,M. Takagiwa,7/23/2012,4,Japan,4:Grandmaster
+51244,dvelkov,Daniel Velkov,7/24/2012,3,US,3:Master
+51561,george04,George Mohler,7/29/2012,3,United States,3:Master
+52095,cedricgp,Cedric Gouy-Pailler,8/6/2012,3,France,3:Master
+52120,andreykolev,Andrey Kolev,8/6/2012,3,Russian Federation,3:Master
+52235,marcolui,Marco Lui,8/7/2012,3,Australia,3:Master
+52308,casalicchio,Giuseppe Casalicchio,8/8/2012,3,Germany,3:Master
+53180,precmarket,Richard Courtheoux,8/19/2012,3,United States,3:Master
+53763,andosa,Ando Saabas,8/21/2012,3,Estonia,3:Master
+54120,melisgl,Gábor Melis,8/22/2012,3,Hungary,3:Master
+54391,romaniukm,Michal,8/22/2012,3,Poland,3:Master
+54836,titericz,Giba,8/23/2012,4,Brazil,4:Grandmaster
+54866,photosynth,Quantum Leap,8/23/2012,3,United States,3:Master
+54892,jsn1313,jsn13,8/23/2012,3,Slovak Republic,3:Master
+54981,anonymous3,anonymous,8/24/2012,3,,3:Master
+55972,akuznetspv,Alexander Kuznetsov,8/27/2012,3,Russian Federation,3:Master
+56046,ianmcculla,Ian McCulla,8/28/2012,3,United States,3:Master
+56101,nhlx5haze,nhlx5haze,8/28/2012,4,france,4:Grandmaster
+57092,bobbywatson,Bobby Watson,9/3/2012,3,France,3:Master
+57102,vasek1,Vasek,9/3/2012,3,,3:Master
+57803,dmcgarry,David McGarry,9/8/2012,3,United States,3:Master
+57992,analyticbastard,Analytic Bastard,9/9/2012,3,UK,3:Master
+58270,yannig29,Dan F.,9/12/2012,3,France,3:Master
+58283,mariuspopescu,Marius Popescu,9/12/2012,3,Romania,3:Master
+58758,adbrebs,AdeB,9/15/2012,3,,3:Master
+58838,tyi2000,y,9/16/2012,4,South Korea,4:Grandmaster
+59009,rkeisler,Ryan Keisler,9/17/2012,3,USA,3:Master
+59146,kczar6,K-czar,9/18/2012,3,United States,3:Master
+59264,josefslavicek,Josef Slavicek,9/19/2012,3,,3:Master
+59561,inversion,inversion,9/21/2012,5,United States,5:Kaggleteam
+59905,dnouri,Daniel Nouri,9/24/2012,3,Germany,3:Master
+60086,nishkgp,Nishant Kumar,9/25/2012,3,United States,3:Master
+60159,alzmcr,Alessandro Mariani,9/26/2012,3,United Kingdom,3:Master
+60578,bshang,B Shang,9/29/2012,3,United States,3:Master
+60870,danielyoo,Daniel Yoo,10/1/2012,3,United States,3:Master
+61041,navdeepjaitly,Navdeep Jaitly,10/1/2012,3,Canada,3:Master
+61615,hurlburt,Chris H.,10/4/2012,3,United States,3:Master
+61657,budiansky,Michael 7402,10/5/2012,3,United States,3:Master
+63068,adpads,ADPR,10/14/2012,3,United States,3:Master
+63502,ericbiernat,Bibi Mining,10/16/2012,3,France,3:Master
+64194,pcovington,Paul Covington,10/19/2012,3,United States,3:Master
+64261,codingneo,CodingNeo,10/20/2012,3,Singapore,3:Master
+64274,dmitrylarko,Dmitry Larko,10/20/2012,4,US,4:Grandmaster
+64626,mikeskim,Mike Kim,10/22/2012,4,United States,4:Grandmaster
+65017,svpons,Sandro,10/24/2012,3,US,3:Master
+65375,thefum,TheFum,10/24/2012,3,,3:Master
+65687,sjuvekar,Sudeep Juvekar,10/25/2012,3,United States,3:Master
+65734,unsupervised,Unsupervised,10/25/2012,3,United States,3:Master
+65902,rafahernandez,Rafa,10/26/2012,3,ES,3:Master
+65920,issamlaradji,Issam Laradji,10/26/2012,3,Canada,3:Master
+65955,deanmckee,Dean McKee,10/26/2012,3,United States,3:Master
+66023,miroslaw,Miroslaw Horbal,10/27/2012,3,Canada,3:Master
+66207,turtledonkey,TurtleDonkey,10/28/2012,3,,3:Master
+67117,wjs147,PoolNightBill,11/2/2012,3,,3:Master
+67142,izmaylov,Izmaylov Konstantin,11/2/2012,3,Russia,3:Master
+67483,kmader,Kevin Mader,11/4/2012,3,Switzerland,3:Master
+67720,rdokov,Rangel Dokov,11/5/2012,3,BG,3:Master
+68139,cherednychenko,Andrii Cherednychenko,11/7/2012,3,Ukraine,3:Master
+68739,scharf,T. Scharf,11/10/2012,3,United States,3:Master
+68889,clustifier,clustifier,11/11/2012,4,IL,4:Grandmaster
+68902,bigplanet,BigPlanet,11/12/2012,3,Singapore,3:Master
+69060,ckomaki,Komaki,11/13/2012,4,United States,4:Grandmaster
+69295,emilskultety,Emil Skultety,11/14/2012,3,Czech Republic,3:Master
+69371,randomforestranger,RandomForestRanger,11/15/2012,3,United States,3:Master
+69514,yarotsky,Dmitry Yarotsky,11/15/2012,3,Russian Federation,3:Master
+69562,thequants,Peter Borrmann,11/16/2012,3,DE,3:Master
+70112,mattsco,Mattsco,11/20/2012,3,France,3:Master
+70466,nimo70466,nimo,11/22/2012,3,,3:Master
+70574,arsenal,Arsenal,11/23/2012,4,US,4:Grandmaster
+70859,liubenyuan,byliu,11/25/2012,3,China,3:Master
+71321,hustmonk,hustmonk,11/28/2012,3,CN,3:Master
+71388,sudalairajkumar,SRK,11/28/2012,4,IN,4:Grandmaster
+71783,sergeifironov,Sergei Fironov,11/30/2012,3,Russian Federation,3:Master
+72517,mandalsubhajit,Subhajit Mandal,12/4/2012,3,India,3:Master
+72586,gphilippis,Computer says no,12/4/2012,3,Greece,3:Master
+72638,harkmug,harkmug,12/4/2012,3,,3:Master
+72674,indradenbakker,Indra den Bakker,12/4/2012,3,Netherlands,3:Master
+73012,julesvanligtenberg,Jules,12/6/2012,3,The Netherlands,3:Master
+73603,bensolucky,Ben S,12/9/2012,3,United States,3:Master
+73703,psilogram,Silogram,12/9/2012,4,Switzerland,4:Grandmaster
+74014,twolfanger,Tobias Wolfanger,12/9/2012,3,Germany,3:Master
+74276,georgem,Evdilos_Ikaria,12/10/2012,3,Greece,3:Master
+74755,sergeykozub,sergey.kozub,12/12/2012,4,Russia,4:Grandmaster
+75196,abalogh,Attila Balogh,12/13/2012,3,Austria,3:Master
+75486,romainayres,Romain Ayres,12/14/2012,3,France,3:Master
+75837,slobo777,Neil Slater,12/15/2012,3,United Kingdom,3:Master
+75976,cpmpml,CPMP,12/16/2012,4,France,4:Grandmaster
+75989,ppershing,Farmár,12/16/2012,3,Slovak Republic,3:Master
+76482,wleite,wleite,12/18/2012,3,Brazil,3:Master
+76613,davidknox,David Knox,12/19/2012,3,New Zealand,3:Master
+77226,orchid,orchid,12/22/2012,4,United States,4:Grandmaster
+77365,wintergreens,Nile,12/22/2012,3,United States,3:Master
+77496,kendrickboyd,Kendrick Boyd,12/24/2012,3,United States,3:Master
+77826,phillipadkins,Phillip Chilton Adkins,12/26/2012,3,United States,3:Master
+77966,banyan,banyan,12/28/2012,3,,3:Master
+78083,guidotapia,Guido Tapia,12/29/2012,3,Australia,3:Master
+78090,mlrush,MLRush,12/29/2012,3,China,3:Master
+78119,hugoguh,sumo,12/29/2012,3,United States,3:Master
+78307,guestwalk,Yuchin Juan,12/31/2012,3,,3:Master
+78322,ikretus,ikretus,12/31/2012,3,Russia,3:Master
+79426,dieselboy,Dieselboy,1/8/2013,3,Germany,3:Master
+79941,waterbears,WaterBear,1/11/2013,3,United States,3:Master
+79977,mpearmain,Mike Pearmain,1/11/2013,3,London,3:Master
+80870,mgoldberg524,Mark Goldberg,1/17/2013,3,United States,3:Master
+82278,ywu82278,ywu,1/26/2013,3,,3:Master
+83060,mflury,	@utopilot,1/31/2013,3,,3:Master
+84462,potamitis,Ilyas Potamitis,2/10/2013,3,Greece,3:Master
+84922,threedb,threedB,2/13/2013,3,United States,3:Master
+85195,jasontam,( ͡° ͜ʖ ͡°),2/14/2013,3,United States,3:Master
+85480,davidledbetter,David Ledbetter,2/16/2013,3,United States,3:Master
+85999,alecradford,Alec Radford,2/19/2013,3,United States,3:Master
+86420,slatervictoroff,SlaterVictoroff,2/21/2013,3,USA,3:Master
+86432,sangsulee,Sang Su Lee,2/21/2013,3,United States,3:Master
+86696,pakozm,Francisco Zamora-Martinez,2/23/2013,3,Espa,3:Master
+87011,ejhumphrey,ejhumphrey,2/25/2013,3,United States,3:Master
+87057,aysent,Aysen Tatarinov,2/26/2013,3,United States,3:Master
+87114,santiagomota,smota,2/26/2013,3,Spain,3:Master
+87137,ginotesei,Isaac,2/26/2013,3,United States,3:Master
+88428,schernov,checho,3/5/2013,3,Russia,3:Master
+88846,dominiccoey,Dominic Coey,3/7/2013,3,United States,3:Master
+89435,kailex,kxx,3/11/2013,3,,3:Master
+89672,jonwilliams,Jon Williams,3/13/2013,3,United States,3:Master
+90001,nthanhtam,Tam T. Nguyen,3/15/2013,4,United States,4:Grandmaster
+90073,amielm,amiel meiseles,3/15/2013,3,United States,3:Master
+90349,mrooijer,MrOoijer,3/17/2013,3,Netherlands,3:Master
+90569,vthing,vt,3/19/2013,3,,3:Master
+90607,pvkooten,Pascal,3/19/2013,3,Netherlands,3:Master
+90646,deeper,Bill,3/19/2013,3,Spain,3:Master
+90698,huzunali,Chapulist,3/19/2013,3,United States,3:Master
+90753,kristinabarkume,Kristina Barkume,3/20/2013,3,,3:Master
+90795,janvanek,Jan Vanek,3/20/2013,3,Czech Republic,3:Master
+91259,liauys,YS-L,3/23/2013,3,Singapore,3:Master
+91264,davidthaler,David Thaler,3/23/2013,4,United States,4:Grandmaster
+92207,ilyakostrikov,Ilya Kostrikov,3/29/2013,3,United States,3:Master
+92295,paulperry,paulperry,3/29/2013,3,United States,3:Master
+92407,antonbakhtin,Anton Bakhtin,3/30/2013,3,Russia,3:Master
+92513,alecy92513,Alec Y.,3/31/2013,3,,3:Master
+92650,zhdanovich,Kirill Zhdanovich,4/1/2013,3,Sweden,3:Master
+93420,skylibrary,SkyLibrary,4/5/2013,3,United States,3:Master
+93648,jeffreydf,Jeffrey,4/7/2013,3,United Kingdom,3:Master
+93682,asanakoev,Artem.Sanakoev,4/7/2013,3,Belarus,3:Master
+93985,baodier,liuyongqi,4/9/2013,3,China,3:Master
+94510,barisumog,barisumog,4/11/2013,3,Turkey,3:Master
+94750,kerker,kerker,4/12/2013,3,Taiwan,3:Master
+95300,wschin,mandora,4/14/2013,3,Taiwan,3:Master
+95596,duffman,Duffman,4/15/2013,3,United States,3:Master
+95601,jarfo1,José A. R. Fonollosa,4/15/2013,4,Spain,4:Grandmaster
+96056,erichendey,Eric Hendey,4/17/2013,3,United States,3:Master
+96153,ysjh2010,ysjh2010,4/18/2013,3,China,3:Master
+96378,omoekan09,Rokoson,4/19/2013,3,United States,3:Master
+96408,jordangoblet,Jordan Goblet,4/19/2013,3,Belgium,3:Master
+96423,mikhailtrofimov,Mikhail Trofimov,4/19/2013,4,RU,4:Grandmaster
+96809,massimiliano,bmax,4/21/2013,3,Italy,3:Master
+96870,donghyun,Dong-Hyun Lee,4/21/2013,3,South Korea,3:Master
+96960,deepfashion,MMDL,4/22/2013,3,China,3:Master
+97120,singhs,shail,4/23/2013,3,United States,3:Master
+97182,archertch,Arc,4/23/2013,3,,3:Master
+97203,ntuskyly,Skyly,4/23/2013,3,,3:Master
+97220,felixgwu,Hahaha,4/23/2013,3,,3:Master
+97222,mengmengyong,mengmengyong,4/23/2013,3,,3:Master
+97238,sammy97238,Sammy,4/23/2013,3,Taiwan,3:Master
+97248,acacam,acacam,4/23/2013,3,,3:Master
+97342,peter78789,October,4/24/2013,3,,3:Master
+97360,rockerman1,rockerman,4/24/2013,3,,3:Master
+97366,r4497366,r44,4/24/2013,3,,3:Master
+97373,ej0cl6,ej0cl6,4/24/2013,3,,3:Master
+97420,whengraduate,souvlaki,4/24/2013,3,,3:Master
+97477,guava97477,Guava,4/24/2013,3,,3:Master
+97781,kennyw,KennyW,4/26/2013,3,,3:Master
+98112,fishtung2,FishTung,4/28/2013,3,,3:Master
+98575,ivanhoe,Ivanhoe,4/30/2013,3,USA,3:Master
+98807,euclides,Euclides Filho,5/2/2013,3,Brazil,3:Master
+99029,davutpolat,Davut Polat,5/2/2013,3,,3:Master
+99569,brainsignals,brainsignals,5/5/2013,3,,3:Master
+99596,bellar,Anthony Bell,5/6/2013,3,United States,3:Master
+100236,jiweiliu,Jiwei Liu,5/9/2013,4,United States,4:Grandmaster
+100882,puffin,Vinayaka,5/13/2013,3,India,3:Master
+101776,mlsword,MachineLearner,5/18/2013,3,United States,3:Master
+102182,pedram,Mehdi Pedram,5/21/2013,3,,3:Master
+102203,chenglongchen,Chenglong Chen,5/21/2013,4,China,4:Grandmaster
+103225,ambarish,Bukun,5/27/2013,3,India,3:Master
+104302,scottdh,Scott H,6/1/2013,3,,3:Master
+104698,x75a40890,Alejandro Mosquera,6/2/2013,4,GB,4:Grandmaster
+104868,raulrios,Raul Rios,6/3/2013,3,,3:Master
+105017,cjlin105017,cjlin,6/4/2013,3,,3:Master
+105226,yuyuzhang,Yuyu Zhang,6/5/2013,3,,3:Master
+105240,davidshinn,David Shinn,6/5/2013,3,United States,3:Master
+105881,robbiec,RobC,6/8/2013,3,USA,3:Master
+106202,benjaminbossan,Benjamin Bossan,6/8/2013,3,Germany,3:Master
+106229,yashwanthreddy,Yashwanth Reddy,6/8/2013,3,India,3:Master
+106249,mariofilho,Mario Filho,6/8/2013,4,Brazil,4:Grandmaster
+106544,aivanni,Andrey,6/9/2013,3,,3:Master
+107207,agrigorev,ololo,6/10/2013,3,Russia,3:Master
+108861,yevgeniy,Yevgeniy,6/13/2013,3,Finland,3:Master
+109675,mavlyutovrus,Ruslan Mavlyutov,6/15/2013,3,Switzerland,3:Master
+109992,gzsiceberg,Gzs_iceberg,6/16/2013,3,China,3:Master
+110240,zeroblue,Michael Hartman,6/17/2013,3,US,3:Master
+110821,rightfit,Run2,6/18/2013,3,,3:Master
+111066,cydonia,cydonia,6/19/2013,3,Japan,3:Master
+111220,kevinhwang,Kevin Hwang,6/20/2013,3,US,3:Master
+111508,maineiac,Maineiac,6/23/2013,3,United States,3:Master
+111640,kazanova,Μαριος Μιχαηλιδης KazAnova,6/24/2013,4,GR,4:Grandmaster
+111641,vivant,TVS,6/24/2013,3,Taiwan,3:Master
+111776,adjgiulio,Giulio,6/25/2013,4,US,4:Grandmaster
+112010,ben519,Ben Gorman,6/26/2013,3,United States,3:Master
+112226,pavel1,Pavel Blinov,6/28/2013,3,Russia,3:Master
+112986,michaelp,michaelp,7/4/2013,3,Germany,3:Master
+113389,rohanrao,Vopani,7/9/2013,4,India,4:Grandmaster
+113431,belindatrotta,Belinda Trotta,7/9/2013,3,Australia,3:Master
+113573,dimitrislev,Dimitris Leventis,7/10/2013,3,Greece,3:Master
+113660,hengck23,Heng CherKeng,7/11/2013,4,,4:Grandmaster
+113822,pengliu84,Peng,7/12/2013,3,,3:Master
+114032,speculation,idle_speculation,7/13/2013,4,USA,4:Grandmaster
+114375,andreasmerentitis,Andreas Merentitis,7/16/2013,3,Germany,3:Master
+114978,triskelion,Triskelion,7/20/2013,3,The Netherlands,3:Master
+115045,dkaylor,dkay,7/21/2013,3,,3:Master
+115083,liangpang,Liang Pang,7/22/2013,3,China,3:Master
+115173,philculliton,Phil Culliton,7/22/2013,5,USA,5:Kaggleteam
+115458,markgoldburd,Mark Goldburd,7/25/2013,3,United States,3:Master
+115475,selsaas,Lars Ropeid Selsås,7/25/2013,3,Norway,3:Master
+115881,mamymo,mymo,7/28/2013,3,,3:Master
+116125,alexandrebarachant,Alexandre Barachant,7/30/2013,3,France,3:Master
+117974,j0shua,Joshua Havelka,8/14/2013,3,United States,3:Master
+118081,bowenyuan,Bowen-Yuan,8/15/2013,3,China,3:Master
+118083,coluna,colun,8/15/2013,3,Japan,3:Master
+119960,ivicajovic,Ivica Jovic,8/22/2013,3,,3:Master
+120030,martin22,Martin Martin,8/22/2013,3,Argentina,3:Master
+121535,ktchris,Christian Kiss-Tóth,8/26/2013,3,Hungary,3:Master
+121619,paso84,Paso,8/27/2013,3,,3:Master
+123235,fchollet,fchollet,9/1/2013,3,,3:Master
+125371,gooron,gooron,9/11/2013,3,Russia,3:Master
+126140,sofiyuk,Konstantin Sofiyuk,9/15/2013,3,Russian Federation,3:Master
+126176,jfkingiii,James King,9/16/2013,3,United States,3:Master
+127341,shotaro,Shotaro Sano,9/21/2013,3,Japan,3:Master
+127884,timhenry,Timothee Henry,9/24/2013,3,,3:Master
+127977,smallyellowduck,small yellow duck,9/24/2013,3,Canada,3:Master
+128750,selfishgene,Selfish Gene,9/27/2013,3,Israel,3:Master
+129353,kellenblumberg,Kellen Blumberg,9/30/2013,3,,3:Master
+129463,yhjiang,RabbitAndHorse,10/1/2013,3,United States,3:Master
+129706,cptplanet,cptplanet,10/2/2013,3,,3:Master
+129926,chengchen1,cheng chen,10/2/2013,3,United States,3:Master
+131304,symyksr,Mickey,10/5/2013,3,Japan,3:Master
+133583,theredrifle,The Red Rifle,10/12/2013,3,United States,3:Master
+134288,andrem,Andre,10/15/2013,3,UK,3:Master
+134751,quickjanca,Perroquet,10/17/2013,3,Czech Republic,3:Master
+135296,mchahhou,mchahhou,10/19/2013,3,Maroc,3:Master
+136824,longnguyen,Long Nguyen,10/27/2013,3,Singapore,3:Master
+137913,quantified,quantify,11/1/2013,3,,3:Master
+139831,pjbull,bull,11/10/2013,3,,3:Master
+140149,abdulwahabkabani,AbdulWahab Kabani,11/12/2013,3,Canada,3:Master
+141205,hduong,Hoang Duong,11/15/2013,3,United States,3:Master
+143717,brandonkam1,Brandon Kam,11/22/2013,3,USA,3:Master
+143825,duncanbarrack,barrack_d,11/22/2013,3,United Kingdom,3:Master
+144035,rakhlin,rakhlin,11/23/2013,3,,3:Master
+144122,neilsummers,Neil Summers,11/24/2013,3,United States,3:Master
+144944,soundwaveli00,Hang,11/27/2013,3,,3:Master
+144946,gregoirel,gregl,11/27/2013,3,France,3:Master
+145130,pierresermanet,Pierre Sermanet,11/28/2013,3,United States,3:Master
+145393,flowlight,flowlight,11/29/2013,3,Japan,3:Master
+145599,btgraham,Benjamin Graham,12/1/2013,3,United Kingdom,3:Master
+146195,vonvonvon,Stephen Von Worley,12/3/2013,3,USA,3:Master
+147404,devinanzelmo,devin,12/9/2013,3,United States,3:Master
+147512,elenacuoco,Elena Cuoco,12/10/2013,3,Italy,3:Master
+148150,zsaurk,saurk,12/12/2013,3,,3:Master
+149229,stasg7,Stanislav Semenov,12/13/2013,4,Russian Federation,4:Grandmaster
+149507,xueerchen,Xueer Chen,12/15/2013,3,USA,3:Master
+149814,marekcygan,Marek Cygan,12/17/2013,3,,3:Master
+150338,yifanxie,Yifan Xie,12/19/2013,3,GB,3:Master
+150708,outliar,Mohd Shadab Alam,12/20/2013,3,India,3:Master
+150865,brandenkmurray,Branden Murray,12/21/2013,4,United States,4:Grandmaster
+154100,gmilosev,gmilosev,12/29/2013,4,Croatia,4:Grandmaster
+154165,nutastray,Chen Ken,12/30/2013,3,China,3:Master
+154336,lukebornn,Luke Bornn,12/30/2013,3,USA,3:Master
+154592,dmitriyanisimov,Dmitriy Anisimov,1/1/2014,3,Russia,3:Master
+154822,alexanderfranks,Alexander Franks,1/2/2014,3,United States,3:Master
+155232,dsalex,Alexander Ponomarchuk,1/4/2014,3,,3:Master
+155673,rafalcycon,Rafal Cycon (blaine),1/7/2014,3,PL,3:Master
+155838,fengqi0423,Feng,1/8/2014,3,,3:Master
+156404,ainu77,Nana,1/10/2014,3,South Korea,3:Master
+156426,bpavlyshenko,Bohdan Pavlyshenko,1/10/2014,3,Ukraine,3:Master
+158264,rafalj,Rafal Jozefowicz,1/19/2014,3,United States,3:Master
+158501,achm6174,achm,1/20/2014,3,,3:Master
+158737,bekbolatov,Renat Bekbolatov,1/21/2014,3,,3:Master
+158800,ricgama,RW,1/21/2014,3,Portugal,3:Master
+158887,jaehyunlim,Jae Hyun Lim,1/22/2014,3,South Korea,3:Master
+159959,dulyanov,Dmitry Ulyanov,1/27/2014,3,Russian Federation,3:Master
+160106,nagadomi,nagadomi,1/27/2014,4,Japan,4:Grandmaster
+160542,arnezeising,Arne Zeising,1/29/2014,3,United States,3:Master
+160543,edulop,Eduardo Lopez,1/29/2014,3,United States,3:Master
+160544,chrismueller0,Chris Mueller,1/29/2014,3,United States,3:Master
+161151,u1234x1234,u1234x1234,1/31/2014,3,RU,3:Master
+161293,ikolchin,Ilya Kolchin,2/1/2014,3,,3:Master
+161355,ductoan0503,ductoan0503,2/1/2014,3,,3:Master
+161601,fatoumata,Fatoumata,2/3/2014,3,United States,3:Master
+161675,zhou14,zhou14,2/3/2014,3,USA,3:Master
+161932,sourabhjha,SVJ24,2/4/2014,3,India,3:Master
+161949,aaronkaufman,Aaron Kaufman,2/4/2014,3,United States,3:Master
+163663,sushize,Shize Su,2/6/2014,4,United States,4:Grandmaster
+163800,ryansun,Ryan Sun,2/7/2014,3,Taiwan,3:Master
+164192,asimkievich,Alejandro Simkievich,2/8/2014,3,Brazil,3:Master
+164412,arsenyinfo,Arseny Kravchenko,2/10/2014,3,Belarus,3:Master
+165406,emolson,emolson,2/12/2014,3,United States,3:Master
+166565,sh1ngg,sh1ng,2/16/2014,3,Russia,3:Master
+168767,fakeplastictrees,fakeplastictrees,2/24/2014,4,,4:Grandmaster
+169364,rsakata,Jack (Japan),2/26/2014,3,Japan,3:Master
+169567,tianzhou,Tian Zhou,2/26/2014,3,United States,3:Master
+170170,pengyan,Eureka,2/28/2014,4,China,4:Grandmaster
+170979,lishubin,Shubin,3/4/2014,3,United States,3:Master
+171598,bohdan,Bohdan Zhurakovskyi,3/5/2014,3,Ukraine,3:Master
+172060,toshik,toshi_k,3/7/2014,3,Japan,3:Master
+173848,jandjenter,Sukjae Cho,3/13/2014,3,United States,3:Master
+174077,aikinogard,Li Li,3/14/2014,3,United States,3:Master
+177112,citrinitas,Citrinitas,3/20/2014,3,RU,3:Master
+177554,danijelk,Danijel Kivaranovic,3/22/2014,4,AT,4:Grandmaster
+178751,lijunjie,YcdoiT,3/27/2014,3,China,3:Master
+178809,edwingraham,Edwin Graham,3/27/2014,3,United Kingdom,3:Master
+180151,jianminsun,Jianmin Sun,3/28/2014,3,United States,3:Master
+181606,jmread,jread,4/3/2014,3,,3:Master
+181710,epinephelus,Tsakalis Kostas,4/3/2014,3,United Kingdom,3:Master
+181794,alekseit,Aleksei Tiulpin,4/4/2014,3,Finland,3:Master
+181929,vvs0713,VVS0713,4/4/2014,3,Russian Federation,3:Master
+182198,pathbinder,Junonia,4/6/2014,3,,3:Master
+184979,ceperaang,Sergey Mushinskiy,4/10/2014,3,Belarus,3:Master
+185715,mzacks,zipp,4/12/2014,3,,3:Master
+185760,robson,Robson,4/12/2014,3,,3:Master
+186012,oleksiirenov,Oleksii Renov,4/13/2014,3,Ukraine,3:Master
+186111,udibr1,udibr,4/13/2014,3,,3:Master
+189117,rhina189117,rhina,4/19/2014,3,Japan,3:Master
+189197,xiaozhouwang,Little Boat,4/20/2014,4,Canada,4:Grandmaster
+189207,infinite,infinitezxc,4/20/2014,3,China,3:Master
+189870,senbong,senbong,4/22/2014,3,,3:Master
+190873,golondrina,golondrina,4/25/2014,3,,3:Master
+191477,dixitgaurav,Gaurav Dixit,4/28/2014,3,Singapore,3:Master
+192568,mvino1,MVino,5/1/2014,3,,3:Master
+194108,clobber,clobber,5/8/2014,3,United States,3:Master
+194753,slonoslon,slonoslon,5/11/2014,3,Russia,3:Master
+194755,adrienpapaioannou,Adrien,5/11/2014,3,United Kingdom,3:Master
+195039,jeradrose,Jerad Rose,5/12/2014,5,USA,5:Kaggleteam
+196012,romualdj,rmldj,5/15/2014,3,Poland,3:Master
+198058,jamesdlawrence,James Lawrence,5/20/2014,3,United Kingdom,3:Master
+199158,divyanshusuri,DSXL,5/21/2014,3,India,3:Master
+199346,yansoftware,Yangela,5/21/2014,3,United States,3:Master
+199918,thawatt,Michael Maguire,5/22/2014,3,United States,3:Master
+200451,aguschin,Alexander Guschin,5/24/2014,4,Russia,4:Grandmaster
+200652,shaironen,Shai Ronen,5/25/2014,3,,3:Master
+201774,markpeng,Mark Peng,5/29/2014,3,Taiwan,3:Master
+204232,weimin,Weimin Wang,6/4/2014,3,USA,3:Master
+206125,kimmyholic,Zisheng Zhang,6/8/2014,3,United States,3:Master
+206436,zerrxy,Mike,6/9/2014,3,Russian Federation,3:Master
+207256,opanichev,Oleg Panichev,6/10/2014,3,Ukraine,3:Master
+207308,shimva,Shim vui ann,6/11/2014,3,Singapore,3:Master
+207612,qtieng,quang tieng,6/12/2014,3,Australia,3:Master
+208238,kruegger,Kruegger,6/14/2014,3,Russia,3:Master
+208367,niklaskoehler,Niklas Köhler,6/15/2014,3,Deutschland,3:Master
+208611,etherqua,Etherqua,6/16/2014,3,United States,3:Master
+208949,minchen0,Min Chen,6/18/2014,3,United States,3:Master
+210040,carlosfernandez,Carlos Fernandez,6/23/2014,3,Spain,3:Master
+210078,mmueller,Faron,6/23/2014,4,,4:Grandmaster
+210587,grjhuard,Guillaume Huard,6/25/2014,3,,3:Master
+210618,albuslaev,Alexander Buslaev,6/25/2014,3,Belarus,3:Master
+211405,vinhnguyen,Vinh Nguyen,6/28/2014,3,AU,3:Master
+212708,keshabkparhi,Keshab K. Parhi,6/30/2014,3,United States,3:Master
+212902,miwanowski,Iwan Groźny,7/1/2014,3,Poland,3:Master
+213177,datarat,MillCheck,7/2/2014,3,Poland,3:Master
+213380,robibok,robibok,7/3/2014,3,Poland,3:Master
+213493,darraghdog,Darragh,7/3/2014,4,Ireland,4:Grandmaster
+213812,mihaskalic,Miha Skalic,7/5/2014,3,Spain,3:Master
+214680,nurlan,Nurlanbek Duishoev,7/8/2014,3,Germany,3:Master
+214899,marian,marian,7/9/2014,3,Poland,3:Master
+214989,steubk,steubk,7/9/2014,3,Italy,3:Master
+216357,andtem2000,Aindriú,7/14/2014,3,Ireland,3:Master
+216452,ngutten,Nicholas Guttenberg,7/14/2014,3,Japan,3:Master
+216921,rhinodaveb,David Bobillot,7/16/2014,3,USA,3:Master
+217046,cocohead,Mary Louie,7/16/2014,3,United States,3:Master
+217312,ginoainsley,Gino,7/17/2014,3,CA,3:Master
+217822,dmitriyguller,Dmitriy Guller,7/21/2014,3,United States,3:Master
+218203,threecourse,threecourse,7/22/2014,3,Japan,3:Master
+218421,luciusyu,Lucius Yu,7/23/2014,3,Sweden,3:Master
+218953,shivrajp,shivraj,7/25/2014,3,United States,3:Master
+218974,tobycheese,Toby Cheese,7/25/2014,3,Switzerland,3:Master
+219107,ouranos,Ouranos,7/26/2014,3,Greece,3:Master
+221112,madcap,madcap,8/2/2014,3,,3:Master
+221419,danielfg,Daniel FG,8/3/2014,4,,4:Grandmaster
+221709,ciglan,Ozembuch,8/4/2014,3,United States,3:Master
+223136,dbroadhead,Derek Broadhead,8/5/2014,3,United States,3:Master
+223160,virilo,Virilo Tejedor Aguilera,8/5/2014,3,Spain,3:Master
+224179,jialunhe,Jialun He,8/9/2014,3,USA,3:Master
+224301,philippeulenberg,Philipp Eulenberg,8/9/2014,3,Germany,3:Master
+224424,drewabbot,Drew Abbot,8/10/2014,3,United States,3:Master
+224461,dvasyukova,dune_dweller,8/10/2014,3,Russian Federation,3:Master
+224462,vipito,Pepan,8/10/2014,3,,3:Master
+224492,florianhendrich,Florian Hendrich,8/10/2014,3,,3:Master
+225319,vincentf,Vincent Firmansyah,8/13/2014,3,Singapore,3:Master
+226151,oseiskar,os,8/16/2014,3,Finland,3:Master
+226497,apralat,Andrzej Prałat,8/18/2014,3,Poland,3:Master
+226693,rushter,Artem Golubin,8/18/2014,3,RU,3:Master
+228076,khyh00,khyh,8/22/2014,3,,3:Master
+228293,shovkun,Ash,8/23/2014,3,,3:Master
+230084,ashapulin,Andrey Shapulin,8/28/2014,3,Russia,3:Master
+231588,datadoge,doge,8/30/2014,3,,3:Master
+232340,ggngdb,Gavin Gray,9/2/2014,3,Scotland,3:Master
+233657,adamhornn,Adam Hornsby,9/6/2014,3,,3:Master
+234212,gdanschin,Georgiy Danshchin,9/8/2014,3,Russia,3:Master
+234686,arnocandel,Arno Candel,9/9/2014,3,US,3:Master
+234886,truepk,true_pk,9/10/2014,3,Canada,3:Master
+236871,scottclowe,Scott Lowe,9/16/2014,3,UK,3:Master
+237639,de317070,317070,9/18/2014,3,BE,3:Master
+238890,samehif,Sameh Faidi,9/22/2014,3,Finland,3:Master
+241438,scirpus,Scirpus,9/29/2014,3,England,3:Master
+241774,chevli,vrajs5,9/30/2014,3,IN,3:Master
+242976,maciejk,maciejk,10/3/2014,3,Poland,3:Master
+243009,antklen,antklen,10/3/2014,3,Russian Federation,3:Master
+243332,lebroschar,lebroschar,10/4/2014,3,US,3:Master
+244759,jburms,jburms,10/6/2014,3,Belgium,3:Master
+244895,florianm,Florian Muellerklein,10/7/2014,3,United States,3:Master
+244905,gingayoshizawa,Ginga,10/7/2014,3,,3:Master
+245190,weilunwong,Encik Besi,10/7/2014,3,,3:Master
+248678,dowakin,Dowakin,10/17/2014,3,United States,3:Master
+249578,aaronsim,PuPa,10/20/2014,3,United Kingdom,3:Master
+250487,gospursgo,Jiahuan He,10/23/2014,3,USA,3:Master
+250928,iamthep,Ryan Munion,10/24/2014,3,United States,3:Master
+251000,sefficohen,Seffi Cohen,10/24/2014,3,israel,3:Master
+251108,gidutz,Gad Benram,10/25/2014,3,Israel,3:Master
+251216,evgenyeltyshev,Evgenii Eltyshev,10/25/2014,3,France,3:Master
+251266,fernandoconstantino,Fernando Constantino,10/26/2014,3,Spain,3:Master
+253773,cyhong549,big_data_cz,11/2/2014,3,,3:Master
+254602,ashhafez,ash hafez,11/4/2014,4,United States,4:Grandmaster
+254638,vicensgaitan,Vicens Gaitan,11/4/2014,3,Espanya,3:Master
+256787,digitalsoul,Eric Chen,11/10/2014,3,United States,3:Master
+258363,javiertag,Javier Tejedor Aguilera,11/14/2014,3,Spain,3:Master
+259561,annavictoria,Anna Montoya,11/17/2014,5,US,5:Kaggleteam
+260287,tezdhar,Mohsin hasan,11/19/2014,3,India,3:Master
+263098,moconnell,Meghan O'Connell,11/24/2014,5,United States,5:Kaggleteam
+263142,kyazuki,kyazuki,11/24/2014,3,Japan,3:Master
+263524,colonelcarotte,Maximilien@DAMI,11/25/2014,3,France,3:Master
+263583,carloshuertas,NxGTR,11/25/2014,4,USA,4:Grandmaster
+264656,ironbar,ironbar,11/28/2014,3,Spain,3:Master
+264709,nickel,Rafael Crescenzi,11/29/2014,3,Argentina,3:Master
+265115,cadene,Remi Cadene,11/30/2014,3,France,3:Master
+266958,vtomecek,Vladimir Tomecek,12/4/2014,3,Slovakia,3:Master
+268253,weeezy,weezy,12/5/2014,3,France,3:Master
+269623,utility,utility,12/9/2014,4,Russian Federation,4:Grandmaster
+270387,girmak,Girma Kejela,12/11/2014,3,Norway,3:Master
+270412,ngaude,nicolas gaude,12/11/2014,3,France,3:Master
+270745,jyangdaily,Ji Yang,12/12/2014,3,US,3:Master
+270899,vtsing,tsing,12/12/2014,3,,3:Master
+273819,jayjay75,jayjay,12/19/2014,3,France,3:Master
+273951,gyuanfan,Yuanfang Guan,12/20/2014,3,United States,3:Master
+274059,aaalgo,Wei Dong,12/20/2014,3,United States,3:Master
+275512,chaiml,Cardal,12/25/2014,3,Israel,3:Master
+275730,justfor,Justfor,12/26/2014,3,DE,3:Master
+275900,bangnk,Bang Nguyen,12/27/2014,3,Vietnam,3:Master
+276326,telepathize,xiao9,12/29/2014,3,,3:Master
+277701,saber00,huangduojia,1/3/2015,3,,3:Master
+278094,cyrisfa,CYR_ISFA,1/4/2015,3,,3:Master
+278153,vinhkhuc,vgng,1/5/2015,3,United States,3:Master
+278403,yaozhao,YZ,1/5/2015,3,United States,3:Master
+278679,jojoboulix,Jojo Boulix,1/6/2015,3,,3:Master
+278690,zidmie,Zidmie,1/6/2015,3,France,3:Master
+278920,thuyenvn,Plankton,1/7/2015,4,,4:Grandmaster
+281494,voglinio,Costas Voglis,1/14/2015,3,Greece,3:Master
+282250,tereka,tereka,1/16/2015,3,Japan,3:Master
+282266,pekinois,pekinois,1/16/2015,3,France,3:Master
+283221,quentiny,quentin.y,1/19/2015,3,,3:Master
+285516,kulishyurii,KulishYurii,1/25/2015,3,Ukraine,3:Master
+285785,zadrras,ZadrraS,1/26/2015,3,Lithuania,3:Master
+285810,zhugds,pongba,1/26/2015,3,United States,3:Master
+286455,iglovikov,Vladimir Iglovikov,1/28/2015,4,United States,4:Grandmaster
+287000,saigonapps,saigonapps,1/29/2015,3,Vietnam,3:Master
+287132,bitsofbits,Tim Hochberg,1/29/2015,3,United States,3:Master
+288205,mfagerlund,Mattias Fagerlund,2/1/2015,3,https,3:Master
+289387,alexeynoskov,Alexey Noskov,2/3/2015,4,Russia,4:Grandmaster
+290833,gzuidhof,Guido Zuidhof,2/6/2015,3,The Netherlands,3:Master
+291298,rdizzl3,RDizzl3,2/8/2015,3,USA,3:Master
+291479,nekrasov,Evgeny Nekrasov,2/8/2015,3,Russia,3:Master
+292012,pvlima,Pedro Lima,2/9/2015,3,Portugal,3:Master
+292835,lamdang,Lam Dang,2/10/2015,3,,3:Master
+293777,yotamsa,Yotam Sandbank,2/12/2015,3,Israel,3:Master
+294266,esimon,ÉJLS,2/13/2015,3,,3:Master
+295333,square8857,square7,2/16/2015,3,US,3:Master
+295728,chrisw1,ChrisW,2/17/2015,3,United States,3:Master
+296134,vlarine,Vladimir Larin,2/18/2015,3,Russia,3:Master
+296161,maksimovka,Konstantin Maksimov,2/18/2015,3,Ukraine,3:Master
+298600,littus,Vlad Mironov,2/21/2015,3,Russia,3:Master
+299743,kelexu,Kele,2/23/2015,4,,4:Grandmaster
+300713,bishwarup,Bishwarup B,2/25/2015,4,India,4:Grandmaster
+303570,oleksandrvorobiov,Oleksandr Vorobiov,3/2/2015,3,Germany,3:Master
+304528,ymcdull,Yunfeng Zhu,3/4/2015,3,UK,3:Master
+304662,ybabakhin,b.e.s.,3/4/2015,3,Belarus,3:Master
+304806,mylesoneill,Myles O'Neill,3/5/2015,5,United States,5:Kaggleteam
+305018,fsimond,Florian Simond,3/5/2015,3,Switzerland,3:Master
+305238,dimastij,Dimastij,3/5/2015,3,Belarus,3:Master
+305342,voltaire,Philip Popien,3/6/2015,3,Austria,3:Master
+305522,chedyraissi,Chedy,3/6/2015,3,France,3:Master
+306537,transcranial,Leon Chen,3/8/2015,3,United States,3:Master
+312617,wakeup06,Sungbin Choi,3/17/2015,3,,3:Master
+312728,jturkewitz,Jared Turkewitz,3/17/2015,3,United States,3:Master
+313148,flaviocf,Flavio Fiszman,3/17/2015,5,United States,5:Kaggleteam
+313928,x2x4x8,x2x4x8,3/18/2015,3,United States,3:Master
+314138,ask788,ahmad0790,3/19/2015,3,,3:Master
+314468,chriscc,ChrisCC,3/19/2015,3,Canada,3:Master
+314565,hiendang,Hien To,3/19/2015,3,Germany,3:Master
+315487,fugusuki,fugusuki,3/21/2015,3,JP,3:Master
+317344,onodera,ONODERA,3/24/2015,3,Japan,3:Master
+318515,yaxuliu,Daniel_NTU,3/25/2015,3,,3:Master
+318757,andreyg,Andrey,3/25/2015,3,,3:Master
+318775,mammal,Arto,3/25/2015,3,Finland,3:Master
+320886,ferris,Ferris,3/29/2015,3,CN,3:Master
+321145,andrenaef,Andre Naef,3/29/2015,3,CH,3:Master
+324795,aldente,aldente,4/4/2015,3,,3:Master
+329631,chechir,Matias Thayer,4/9/2015,4,United Kingdom,4:Grandmaster
+329893,cavalloni,ncavallo,4/9/2015,3,France,3:Master
+330574,chinta,GreatDataAnalyst,4/10/2015,3,India,3:Master
+330642,guppi3695,Ankit Gupta,4/10/2015,3,IN,3:Master
+331256,randxie,Rand Xie,4/11/2015,3,USA,3:Master
+331718,mmotoki,Matt Motoki,4/11/2015,3,United States,3:Master
+331836,raisefamous,Random Hero,4/11/2015,3,Latvia,3:Master
+332010,alanbutton,Grey,4/12/2015,3,United States,3:Master
+338701,nimashahbazi,Nima Shahbazi,4/20/2015,4,Canada,4:Grandmaster
+339855,katchup,Alex Auvolat,4/22/2015,3,France,3:Master
+340254,ifighting,iFighting,4/23/2015,3,China,3:Master
+341051,sterby,Sterby,4/24/2015,3,DE,3:Master
+341465,breezeyuner,Yannick,4/25/2015,3,,3:Master
+343035,yukari17,yukari17,4/28/2015,3,Japan,3:Master
+345693,abhilashawasthi,Abhilash Awasthi,5/2/2015,3,India,3:Master
+347463,jtrotman,James Trotman,5/5/2015,3,United Kingdom,3:Master
+348777,derkanat,Derkanat,5/7/2015,3,Germany,3:Master
+349231,smoskvin,Sergey Moskvin,5/8/2015,3,Russia,3:Master
+349708,donniedarko,Nir Malbin,5/9/2015,3,Israel,3:Master
+349750,tadeusiak,mtadeusiak,5/9/2015,3,Poland,3:Master
+350124,djpittdj,djpittdj,5/10/2015,3,,3:Master
+351701,yiannisg,yiannisg,5/13/2015,3,,3:Master
+353343,yglsmith,EasyYi,5/16/2015,3,United States,3:Master
+354230,randombishop,Randombishop,5/18/2015,3,Morocco,3:Master
+354851,ipasechnik,Igor Pasechnik,5/19/2015,3,Russia,3:Master
+355879,alessandra,Alessandra,5/21/2015,3,,3:Master
+355969,ppleskov,Pavel Pleskov,5/21/2015,4,Russia,4:Grandmaster
+356859,johnseamons,John Seamons,5/23/2015,3,Australia,3:Master
+357872,anton79,Anton Laptiev,5/26/2015,3,Canada,3:Master
+358147,srrobert50,4d4stra,5/26/2015,3,United States,3:Master
+367386,usingtc,usingtc,6/12/2015,3,,3:Master
+368522,bwilbertz,Benedikt,6/15/2015,3,,3:Master
+369212,godaibo,DavidGbodiOdaibo,6/16/2015,3,United States,3:Master
+370746,jonathankchang,JonathanKChang,6/20/2015,3,,3:Master
+371746,hhh920406,Yam,6/22/2015,3,China,3:Master
+372183,nulldata,amrrs,6/23/2015,3,India,3:Master
+372224,alanpo,Alexander Popov,6/23/2015,3,Russia,3:Master
+373633,foobar27,Sébastien Wagener,6/26/2015,3,,3:Master
+375063,garrettthk,Garrett Teoh Hor Keong,6/30/2015,3,SG,3:Master
+377439,kdziedzic66,Krzysztof Dziedzic,7/2/2015,3,,3:Master
+377456,remap1,Gerard Toonstra,7/3/2015,3,Netherlands,3:Master
+377536,alexlzzz,	==>(AL)<==,7/3/2015,3,United States,3:Master
+379860,captcalculator,Troy Walters,7/8/2015,3,United States,3:Master
+382794,mohitmohan,Maverix,7/13/2015,3,,3:Master
+383757,mindcool,Luis Andre Dutra e Silva,7/14/2015,3,Federal District,3:Master
+384014,allexius,Alexander Bauer,7/14/2015,3,Germany,3:Master
+393246,sasrdw,Russ W,7/30/2015,4,United States,4:Grandmaster
+394451,btbpanda,Btbpanda,8/1/2015,3,,3:Master
+396939,paragkale,Parag Kale,8/6/2015,3,India,3:Master
+399236,mgchbot,mgchbot,8/12/2015,3,,3:Master
+400262,apapiu,Alexandru Papiu,8/14/2015,3,United States,3:Master
+400558,zeliek,Argmen,8/14/2015,3,China,3:Master
+405318,raddar,raddar,8/24/2015,4,Lithuania,4:Grandmaster
+406384,qqgeogor,qianqian,8/26/2015,4,China,4:Grandmaster
+407384,drn01z3,n01z3,8/27/2015,4,Russia,4:Grandmaster
+408526,extremin,extremin,8/30/2015,3,,3:Master
+409110,zhewang,horizon,8/31/2015,3,China,3:Master
+409198,laroumagne,Florian Laroumagne,8/31/2015,3,FR,3:Master
+409209,pierrenowak,Pierre Nowak,8/31/2015,3,France,3:Master
+410777,vwoodnz,vwood,9/2/2015,3,NZ,3:Master
+413038,phegde,Pradeep Hegde,9/5/2015,3,Hong Kong,3:Master
+414229,prostoblank,Natalia Bliankinshtein,9/7/2015,3,Russian Federation,3:Master
+417337,tunguz,Bojan Tunguz,9/11/2015,4,USA,4:Grandmaster
+421386,bobutis,bobutis,9/17/2015,4,LT,4:Grandmaster
+422213,praveenadepu,Praveen Adepu,9/19/2015,3,Australia,3:Master
+425513,andreaslup,alup,9/23/2015,3,Greece,3:Master
+431392,yangxulei,XuleiYang,9/30/2015,3,Singapore,3:Master
+435831,alexeylive,Alexey Matveev,10/5/2015,3,Russia,3:Master
+436401,tkm2261,tkm2261,10/6/2015,3,Japan,3:Master
+436770,legolace,KirillSkornyakov,10/6/2015,3,RU,3:Master
+438531,freeman89,Kostadinov,10/8/2015,3,Germany,3:Master
+439177,scnndl,scnndl,10/9/2015,3,,3:Master
+440760,alexs00,Alexandr Seleznyov,10/12/2015,3,FI,3:Master
+448799,ubbikk,ubik,10/22/2015,3,,3:Master
+449071,nickycan,🐳鲲(China),10/23/2015,3,China,3:Master
+453807,craigglastonbury,Craig Glastonbury,10/28/2015,3,United Kingdom,3:Master
+456632,beedata,FengLi,11/1/2015,3,,3:Master
+459082,brandao,Humberto Brandão,11/4/2015,3,Brazil,3:Master
+459771,poteman,poteman,11/5/2015,3,,3:Master
+461304,pavelgonchar,Pavel Gonchar,11/7/2015,3,,3:Master
+461631,renman,Felix Yu,11/8/2015,3,,3:Master
+461723,zfturbo,ZFTurbo,11/8/2015,4,RU,4:Grandmaster
+462889,albedan,Alberto Danese,11/9/2015,4,Italy,4:Grandmaster
+466166,a31314431,FuLin,11/13/2015,3,USA,3:Master
+469241,ecow1338,nomo,11/18/2015,3,China,3:Master
+471945,divrikwicky,AhmetErdem,11/22/2015,3,Netherlands,3:Master
+473143,nuszeng,Zeng Zeng,11/24/2015,3,Singapore,3:Master
+473824,colinmorris,ColinMorris,11/25/2015,5,Canada,5:Kaggleteam
+474954,ktts1031,tosh,11/26/2015,3,Japan,3:Master
+476352,seanjv,sjv,11/28/2015,4,United States,4:Grandmaster
+478989,wowfattie,Guanshuo Xu,12/2/2015,3,United States,3:Master
+479538,maxwell110,Maxwell,12/2/2015,3,Japan,3:Master
+480181,manels,Manel,12/3/2015,3,Spain,3:Master
+480198,lucienderubempre,Lucien de Rubempre,12/3/2015,3,,3:Master
+484503,rwightman,RossWightman,12/9/2015,3,Canada,3:Master
+484516,crawford,Chris Crawford,12/9/2015,5,United States,5:Kaggleteam
+484718,beaverdm,Beaver48,12/10/2015,3,Russia,3:Master
+486077,whitebird,whitebird,12/12/2015,3,China,3:Master
+486850,aviatorx,Youliang Yu,12/14/2015,3,USA,3:Master
+487776,arthurllau,Arthur  Llau,12/15/2015,3,France,3:Master
+490001,jonathanbouchet,Jonathan Bouchet,12/18/2015,3,United States,3:Master
+494641,narsil,narsil,12/28/2015,3,Poland,3:Master
+495305,mrisdal,Megan Risdal,12/29/2015,5,United States,5:Kaggleteam
+495818,kylelee,Kyle Y. Lee,12/30/2015,4,Malaysia,4:Grandmaster
+496907,ogrellier,olivier,1/2/2016,3,,3:Master
+497811,randseay,Rand Seay,1/4/2016,5,United States,5:Kaggleteam
+501003,troyretter,Troy Retter,1/9/2016,3,United States,3:Master
+501283,liaofz,Fangzhou Liao,1/10/2016,3,China,3:Master
+505196,ekydna,Andrey Kiryasov,1/15/2016,3,Russia,3:Master
+505747,anokas,anokas,1/16/2016,4,United Kingdom,4:Grandmaster
+506695,alexch,alex,1/18/2016,3,,3:Master
+507598,arnowaczynski,arnowaczynski,1/19/2016,3,Poland,3:Master
+509829,datahobbit,MichaelP,1/21/2016,3,United Kingdom,3:Master
+510978,longint,longint,1/23/2016,3,,3:Master
+511704,lessonnair,lessonnair,1/24/2016,3,,3:Master
+512750,ddanevskyi,Dmitriy Danevskiy,1/25/2016,3,,3:Master
+512917,kubilai,kubilai,1/26/2016,3,,3:Master
+517522,bvoskresenskii,BVoskresenskii,1/31/2016,3,Russia,3:Master
+518185,victorsd,Victor Durnov,2/1/2016,3,RU,3:Master
+518445,billpun,lazycat,2/1/2016,3,USA,3:Master
+520839,johnpateha,Evgeny Patekha,2/4/2016,4,Russia,4:Grandmaster
+522210,shujian,Shujian Liu,2/5/2016,3,United States,3:Master
+522645,laurae2,Laurae,2/6/2016,3,France,3:Master
+523701,famousboy,Rinnegan,2/8/2016,3,USA,3:Master
+526714,sagol79,sagol,2/11/2016,3,Russia,3:Master
+527850,bochen0909,chen,2/12/2016,3,United States,3:Master
+527964,aagundez,Aurelio Agundez,2/12/2016,5,United States,5:Kaggleteam
+529919,paultodo,PaulTodo,2/15/2016,3,France,3:Master
+532347,romul0212,Ruslan Baikulov,2/18/2016,3,,3:Master
+534152,selimsef,Selim Seferbekov,2/20/2016,3,Belarus,3:Master
+535127,cactusplants,cactusplants,2/21/2016,3,Royaume,3:Master
+536494,gamers5a,Aleksey Kharlamov,2/23/2016,3,,3:Master
+536790,sneddy,Aimoldin Anuar [dsmlkz],2/23/2016,3,Kazakhstan,3:Master
+537017,pavelost,Pavel Ostyakov,2/23/2016,3,Russia,3:Master
+541964,cczaixian,KALE,2/28/2016,3,United States,3:Master
+544243,chuijh,Joseph Chui,3/1/2016,3,United States,3:Master
+548996,its7171,tito,3/6/2016,3,Japan,3:Master
+549055,tilii7,Tilii,3/6/2016,3,USA,3:Master
+550864,mifril,Maxim Vakhrushev,3/8/2016,3,Russia,3:Master
+551990,chengju,Cheng,3/9/2016,3,USA,3:Master
+554211,fengari,Fengari,3/11/2016,4,China,4:Grandmaster
+557933,crailtap,Chris Cross,3/15/2016,3,DE,3:Master
+561771,wrosinski,Wojtek Rosinski,3/19/2016,3,Poland,3:Master
+565506,pureheart,piupiu,3/23/2016,4,,4:Grandmaster
+568948,aquatic,Joe Eddy,3/27/2016,3,United States,3:Master
+570506,nejumi,YuyaYamamoto,3/29/2016,3,Japan,3:Master
+573037,lhohoz,lhohoz,4/1/2016,3,China,3:Master
+574850,asydorchuk,Andrii Sydorchuk,4/3/2016,3,Sweden,3:Master
+582918,rahimi,mashdi,4/12/2016,3,United States,3:Master
+584812,sangxia,Sangxia,4/12/2016,3,Sweden,3:Master
+585429,zhiqiangzhong,Zhiqiang Zhong,4/13/2016,3,Luxembourg,3:Master
+587025,williamhau,William Hau,4/15/2016,3,United States,3:Master
+587388,vrtjso,Lingzhi,4/15/2016,3,United States,3:Master
+588067,shixw125,weiwei,4/16/2016,4,CN,4:Grandmaster
+595750,abdelwahedassklou,Abdelwahed Assklou,4/24/2016,3,Morocco,3:Master
+595758,neongen,neongen,4/24/2016,3,Greece,3:Master
+596499,vecxoz,vecxoz,4/25/2016,3,Ukraine,3:Master
+603584,juliaelliott,Julia Elliott,5/3/2016,5,United States,5:Kaggleteam
+604300,ascending,SS,5/4/2016,3,,3:Master
+604667,gkucsko,Kucsko,5/4/2016,3,United States,3:Master
+608221,zillerxi,zillerxi,5/9/2016,3,,3:Master
+611207,vzsolt,Zsolt Vadaszi,5/12/2016,3,Romania,3:Master
+613794,gullu39,PrakashSubedi,5/15/2016,3,United States,3:Master
+614874,btzolo,kissnz,5/17/2016,3,,3:Master
+615271,cwaring,Waring,5/17/2016,3,Canada,3:Master
+617508,tarobxl,tarobxl,5/19/2016,3,,3:Master
+621675,goodlearn,zero,5/23/2016,3,,3:Master
+625941,alexyung757,AlexYung,5/27/2016,3,China,3:Master
+629296,x0x0w1,x0x0w1,5/31/2016,3,Ukraine,3:Master
+629889,sfx7rail,Feater,6/1/2016,3,China,3:Master
+630326,curlyb,Denis Vlasov,6/1/2016,3,RU,3:Master
+632467,jacobkie,jacobkie,6/4/2016,3,,3:Master
+641221,luudactam,Data Luu,6/15/2016,3,Vietnam,3:Master
+643305,nvarganov,NV27,6/17/2016,3,Russia,3:Master
+643793,henrykmichalewski,Henryk,6/18/2016,3,Poland,3:Master
+646076,ajaywolvex,roXw,6/21/2016,3,,3:Master
+651378,adityakumarsinha,adityasinha,6/29/2016,3,India,3:Master
+655298,damonchen,Damon,7/5/2016,3,China,3:Master
+661313,niwatori,NIWATORI,7/13/2016,3,Japan,3:Master
+666918,alijs1,alijs,7/20/2016,3,LV,3:Master
+687211,panfeiyang,FeiYang,8/15/2016,3,China,3:Master
+689545,qingnan,QingnanTang,8/18/2016,3,,3:Master
+689824,venheads,ValeriyBabushkin,8/18/2016,3,Russia,3:Master
+699407,sam,Sam Harris,8/29/2016,5,United States,5:Kaggleteam
+699812,ysharma1126,Yash Sharma,8/30/2016,3,United States,3:Master
+700870,salkaa,Sasho Nedelkoski,8/31/2016,3,Germany,3:Master
+708283,bestfitting,bestfitting,9/7/2016,4,,4:Grandmaster
+711625,viczyf,zyf,9/11/2016,3,,3:Master
+712087,seesee,See--,9/11/2016,3,Germany,3:Master
+713234,cbrioso,Carlos Brioso,9/12/2016,3,United States,3:Master
+713766,kczechowski,KonradCz.,9/13/2016,3,Poland,3:Master
+714692,gerryl,Gerryl,9/14/2016,3,,3:Master
+715257,senkin13,senkin13,9/14/2016,3,Japan,3:Master
+719125,drknope,Dr. Knope,9/18/2016,3,,3:Master
+727797,arthurtok,Anisotropic,9/25/2016,3,United Kingdom,3:Master
+740429,ash316,Ashwini Swain,10/5/2016,3,India,3:Master
+740697,hakimi,Hakim Idjis,10/5/2016,3,France,3:Master
+743064,dmytropoplavskiy,Dmytro Poplavskiy,10/7/2016,3,Australia,3:Master
+743105,cirlecircle,circlecircle,10/7/2016,3,,3:Master
+744554,fartuk1,Artur Fattakhov (MIPT DIHT),10/8/2016,3,,3:Master
+744730,pranav84,Pranav Pandya,10/8/2016,3,Germany,3:Master
+745096,kotikkonstantin,Konstantin Kotik,10/9/2016,3,Russia,3:Master
+748899,plantsgo,plantsgo,10/12/2016,4,,4:Grandmaster
+750643,lystdo,Bing Bai,10/13/2016,3,China,3:Master
+753574,residentmario,Aleksey Bilogur,10/15/2016,3,United States,3:Master
+759141,huangkh19951228,Steeve Huang,10/19/2016,3,Taiwan,3:Master
+760207,lzs0047,Ch-horse,10/20/2016,3,United States,3:Master
+769452,gpreda,Gabriel Preda,10/27/2016,3,Romania,3:Master
+771994,kmtbang,zhongtian,10/30/2016,3,,3:Master
+795565,sgalib,Shai,11/16/2016,3,United States,3:Master
+799024,hitman47,Gleb Anferov,11/17/2016,3,Russia,3:Master
+802917,ilyenkov,anatoly,11/20/2016,3,Russia,3:Master
+805012,yaroshevskiy,Oleg Yaroshevskyy,11/21/2016,3,Ukraine,3:Master
+816164,skbergam,Sean Bergam,11/30/2016,5,United States,5:Kaggleteam
+820631,johnma,John Ma,12/2/2016,3,United States,3:Master
+825553,hhyhhyhy,haoyhu,12/6/2016,3,,3:Master
+829300,rhgrossm,To Train Them Is My Cause,12/8/2016,3,United States,3:Master
+833346,bonga1,Sanjay Agrawal,12/12/2016,3,India,3:Master
+836731,noderaider,Cole Chamberlain,12/15/2016,5,United States,5:Kaggleteam
+836787,linux18,LinuX19,12/15/2016,3,China,3:Master
+841938,takuok,takuoko,12/20/2016,3,Japan,3:Master
+842507,sevensteven,Zijun Yao,12/20/2016,3,Norway,3:Master
+843848,pocketsuteado,pocket,12/21/2016,3,Japan,3:Master
+845888,kkaczmarek,kamil,12/23/2016,3,Poland,3:Master
+847129,ikibardin,Ilya Kibardin,12/25/2016,3,Russia,3:Master
+847605,qiaoshiji,PureMilk,12/26/2016,3,China,3:Master
+848150,mengxin1992,Mengxin,12/27/2016,3,USA,3:Master
+849647,mazdaryo,pigimaru,12/28/2016,3,Japan,3:Master
+850473,damsgroup,Igor Manzhos,12/29/2016,3,Ukraine,3:Master
+854613,h4211819,30CrMnSiA,1/3/2017,3,China,3:Master
+858585,dawnbreaker,Dawnbreaker,1/7/2017,3,United States,3:Master
+864216,fatihozturk,fatihöztürk,1/11/2017,3,Turkey,3:Master
+869279,shvetsiya,Alex Shvets,1/15/2017,3,United States,3:Master
+870614,bmcinnovo,bmci,1/16/2017,3,USA,3:Master
+870928,zhoukj,zkjjj,1/17/2017,3,,3:Master
+874411,olenan,Olena,1/19/2017,3,,3:Master
+876835,aharless,Andy Harless,1/21/2017,3,United States,3:Master
+880113,victorhbd,VictorHBD,1/23/2017,3,Brasil,3:Master
+888191,tivfrvqhs5,David,1/29/2017,3,United States,3:Master
+888400,owruby,owruby,1/29/2017,3,Japan,3:Master
+890468,jjjklife,jjjklife,1/30/2017,3,,3:Master
+900546,mitiau,Dmitriy Umerenkov,2/6/2017,3,Russia,3:Master
+906305,u39kun,Yusaku Sako,2/10/2017,3,United States,3:Master
+921191,ilovearsenal,THLUO,2/20/2017,3,,3:Master
+922818,chetan0403,Chetan Bhat,2/21/2017,3,India,3:Master
+933653,outrunner,outrunner,2/28/2017,3,,3:Master
+937904,popyy0101,Yang Yu,3/2/2017,3,,3:Master
+958871,boberm,Mirek Bober,3/10/2017,3,United Kingdom,3:Master
+962189,wuzuping,Zuping Wu,3/12/2017,3,China,3:Master
+965568,yinpeng,Yinpeng Dong,3/14/2017,3,,3:Master
+969955,kueipo,Kueipo J. H.,3/16/2017,3,Taiwan,3:Master
+971124,igetii,igeti,3/16/2017,3,Russia,3:Master
+974295,serigne,Serigne,3/18/2017,3,France,3:Master
+976501,thousandvoices,thousandvoices,3/19/2017,4,,4:Grandmaster
+978409,willkoehrsen,Will Koehrsen,3/20/2017,3,USA,3:Master
+983147,baomengjiao,spongebob,3/23/2017,3,China,3:Master
+995397,maggiemd,Maggie,3/29/2017,5,United States,5:Kaggleteam
+996327,mzr2017,zr,3/30/2017,3,China,3:Master
+998023,timoboz,Timo Bozsolik,3/31/2017,5,Australia,5:Kaggleteam
+999074,naivelamb,Xuan Cao,3/31/2017,3,United States,3:Master
+1008115,heyt0ny,feels_g00d_man,4/5/2017,3,Russia,3:Master
+1010129,louis925,Louis Yang,4/6/2017,3,USA,3:Master
+1014468,headsortails,Heads or Tails,4/9/2017,4,,4:Grandmaster
+1018689,codename007,Lathwal,4/11/2017,3,India,3:Master
+1023209,infzero,infzero,4/14/2017,3,,3:Master
+1025394,meli19,Mengfei Li,4/15/2017,3,Germany,3:Master
+1029053,leecming,Chun Ming Lee,4/18/2017,3,,3:Master
+1033015,samratp,Samrat P,4/20/2017,3,India,3:Master
+1045782,dlabutsky,Dmitry Labutsky,4/27/2017,3,,3:Master
+1047408,kylinorange,Jun Xie,4/28/2017,3,United States,3:Master
+1047763,andrew60909,"Shuo-Jen, Chang",4/28/2017,3,Taiwan,3:Master
+1056333,markmcdonald,Mark McDonald,5/3/2017,5,,5:Kaggleteam
+1063999,sebbovg,Seb Boving,5/8/2017,5,,5:Kaggleteam
+1075661,alexkirnas,Alexander Zarichkovyi,5/15/2017,3,Ukraine,3:Master
+1087759,qinhui1999,huiqin,5/23/2017,3,,3:Master
+1095143,addisonhoward,Addison Howard,5/26/2017,5,United States,5:Kaggleteam
+1097838,kabure,Leonardo Ferreira,5/29/2017,3,Brazil,3:Master
+1100073,mapodoufu,xBuDer,5/30/2017,3,,3:Master
+1110728,skyhuang,Sky Huang,6/5/2017,3,United States,3:Master
+1113035,terenceliu4444,TerenceLiu,6/7/2017,3,United States,3:Master
+1116846,jiayou,You Jia,6/9/2017,3,,3:Master
+1131996,xucheng,xucheng,6/19/2017,3,China,3:Master
+1132983,sohier,Sohier Dane,6/19/2017,5,United States,5:Kaggleteam
+1134767,berserker408,light,6/21/2017,3,China,3:Master
+1138507,lukeeee,Lukasz Grad,6/23/2017,3,Poland,3:Master
+1145061,nzabcd,Master,6/28/2017,3,China,3:Master
+1156413,brightertiger,<^..^>,7/6/2017,3,India,3:Master
+1157642,kanncaa1,DATAI,7/6/2017,3,Turkey,3:Master
+1160258,ybwu01,Yibing Wu,7/8/2017,3,United States,3:Master
+1162990,rtatman,Rachael Tatman,7/10/2017,5,United States,5:Kaggleteam
+1178699,jplotts,Jim Plotts,7/20/2017,5,United States,5:Kaggleteam
+1179769,kesjien,kes | Glib Kechyn,7/21/2017,3,,3:Master
+1181408,zyzzhaoyuzhe,VZ24,7/22/2017,3,,3:Master
+1183600,atanasova,Atanas Atanasov,7/24/2017,3,Bulgaria,3:Master
+1189681,p233333,Tianyu Pang,7/28/2017,3,,3:Master
+1191573,lyakaap,lyakaap,7/29/2017,3,Japan,3:Master
+1192168,cpuwdl,cpuwdl,7/30/2017,3,,3:Master
+1197762,erniechiew,Ern,8/2/2017,3,Malaysia,3:Master
+1217588,andgo777,Andrey Golov,8/16/2017,3,Russia,3:Master
+1240410,nathanforyou,Nathan Jervis,8/30/2017,5,Canada,5:Kaggleteam
+1248000,michaelapers,MichaelApers,9/4/2017,5,USA,5:Kaggleteam
+1249915,eyobtefera,Eyob Tefera,9/5/2017,5,United States,5:Kaggleteam
+1257168,ekffar,Lin12345,9/9/2017,3,China,3:Master
+1257559,kingarthur7,Arthur Stsepanenka,9/9/2017,3,Belarus,3:Master
+1264580,khyeh0719,Kun Hao Yeh,9/13/2017,3,,3:Master
+1265806,panamka,panamka,9/13/2017,3,Russia,3:Master
+1270958,prashantkikani,Prashant Kikani,9/16/2017,3,India,3:Master
+1277206,golubev,Vlad Golubev,9/19/2017,3,Vietnam,3:Master
+1309432,stephensisk,Stephen Sisk,10/3/2017,5,United States,5:Kaggleteam
+1314380,paultimothymooney,Paul Mooney,10/5/2017,5,USA,5:Kaggleteam
+1315079,peijenlin,Peijen Lin,10/5/2017,5,USA,5:Kaggleteam
+1370818,toshif,toshif,10/29/2017,3,,3:Master
+1377178,oyxuan,ouyangxuan,10/31/2017,3,,3:Master
+1451373,cesces,Ces Cortez,11/27/2017,5,United States,5:Kaggleteam
+1468913,marcuslin,SomethingIsWrong,12/4/2017,3,Taiwan,3:Master
+1488634,cmcmorrow,Camille McMorrow,12/11/2017,5,United States,5:Kaggleteam
+1491058,ryuichi0704,RK,12/12/2017,3,Japan,3:Master
+1528223,meykds,Meyk,1/3/2018,3,Poland,3:Master
+1534809,uuulearn,uuulearn,1/7/2018,3,China,3:Master
+1537731,elizabethpark,Elizabeth Park,1/8/2018,5,,5:Kaggleteam
+1541812,moizsaifee,Moiz Saifee,1/10/2018,3,India,3:Master
+1562031,pavansanagapati,Pavan Sanagapati,1/18/2018,3,India,3:Master
+1562115,allvor,Alvor,1/18/2018,3,Poland,3:Master
+1571785,shivamb,Shivam Bansal,1/22/2018,4,,4:Grandmaster
+1722696,trian2018,trian2018,3/14/2018,3,Germany,3:Master
+1727163,nbdaniels,Noah Daniels,3/16/2018,5,USA,5:Kaggleteam
+1772071,jessicali9530,Jessica Li,3/29/2018,5,USA,5:Kaggleteam
+1788708,rebeccaysteboe,Rebecca Ysteboe,4/4/2018,5,,5:Kaggleteam
+1850620,d1jang,Don Jang,4/23/2018,5,,5:Kaggleteam
+1864256,vaishalij,Vaishali Jain,4/27/2018,5,USA,5:Kaggleteam
+1870734,craerek,Chelsea Raerek,4/30/2018,5,USA,5:Kaggleteam
+1880987,zachdiemer,Zach Diemer,5/3/2018,5,USA,5:Kaggleteam
+1883999,littlecorrie,Corrie,5/4/2018,5,USA,5:Kaggleteam
+1891177,dster,DJ Sterling,5/7/2018,5,USA,5:Kaggleteam
+1952004,jackywangkaggle,Jacky Wang,5/29/2018,5,USA,5:Kaggleteam
+1957404,mikeprocopio,Mike Procopio,5/31/2018,5,USA,5:Kaggleteam
+1957634,ian,Ian Catindig,5/31/2018,5,USA,5:Kaggleteam
+1984530,rosebv,Vincent Roseberry,6/11/2018,5,,5:Kaggleteam
+2039816,herbison,Dustin,7/3/2018,5,,5:Kaggleteam
+2040389,mijames,MJ,7/3/2018,5,USA,5:Kaggleteam
+2055066,willbrazil,Will Guedes,7/9/2018,5,,5:Kaggleteam
+2080166,kerneler,Kaggle Kerneler,7/19/2018,5,USA,5:Kaggleteam
+2133738,rachellm,Rachel,8/7/2018,5,USA,5:Kaggleteam
+2166370,erdalsivri,Erdal Sivri,8/20/2018,5,Germany,5:Kaggleteam
